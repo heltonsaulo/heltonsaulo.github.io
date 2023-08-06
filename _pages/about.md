@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Statistics, University of Brasilia</a>. Brasilia, DF, Brazil 70910-900
+subtitle: <a href='http://www.est.unb.br/'>Department of Statistics, University of Brasilia</a>. Brasilia, DF, Brazil 70910-900
 
 profile:
   align: right
