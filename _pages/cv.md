@@ -238,33 +238,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 
 
 
- <!--
- ### Proceedings
-  73.  _The McPE distribution with application to financial data_. Jointly with J. Leao and M. Bourguignon. Proceedings of the 20th SINAPE , 2012.
-  68.  _Nonparametric estimation of the density function based on skew Birnbaum-Saunders distributions_. Jointly with V. Leiva, C. Marchant and F. Ziegelmann. Proceedings of the X Congreso Latinoamericano de Sociedades de Estadística , 2012.
-  69.  _Wavelet transforms and nonparametric volatility estimation_. Jointly with A. S. Junior. Proceedings of the Fifth Brazilian Conference on Statistical Modelling in Insurance and Finance, 2012.
-  70.  _Density estimation using skew-Birnbaum-Saunders kernels_. Jointly with V. Leiva, C. Marchant and  F. Ziegelmann. Proceedings of the XXXIV Brazilian Meeting of Econometrics, 2012.
-  71.  _Fiscal and monetary policy interactions: a game theoretical approach_. Jointly with L. Rego and J. Divino. Proceedings of the XXXIV Brazilian Meeting of Econometrics, 2012.
-  72.  _Capability indices for Birnbaum-Saunders processes with applications_. Jointly with V. Leiva, C. Marchant and F. Rojas. Proceedings of the 21st SINAPE , 2014.
-  73.  _Monitoring risk using control charts based on the Birnbaum-Saunders distribution_. Jointly with V. Leiva, F. Ruggeri and C. Marchant. Proceedings of the 60th ISI World Statistics Congress, 2015. 
-  74.  _Distribuição Birnbaum-Saunders baseada no núcleo logístico e alguns problemas de inferência_. Jointly with N. M. S. Rosa. Proceedings of the 2nd Encontro Goiano de Probabilidade e Estatística, 2015.
-  75.  _Análise de sobrevivência: uma aplicação para a evasão universitária na UFG, 2009_. Jointly with N. R. Damasceno, M. E. P. Diaz. Proceedings of the 2nd Encontro Goiano de Probabilidade e Estatística, 2015.
-  76.  _A method for location recommendation via skyline query tolerant to noisy geo-referenced data_. Jointly with W. Oliveira, S. Oliveira, V. Rodrigues and K. Cardoso. Proceedings of the GEOINFO - XVI Brazilian Symposium on GeoInformatics, 2015.
-  77.  _On some properties of a new asymmetry-based tobit model_. Jointly with M. DeSousa, V. Leiva and P. Scalco. Proceedings of the XLIV Brazilian Economics Meeting, 2016.
-  78.  _On mean/median-based Birnbaum-Saunders autoregressive conditional duration models and their diagnostics and application_. Jointly with J. Leao and Victor Leiva. Proceedings of the 22th SINAPE, 2016.
-  79.   _On a bivariate Birnbaum-Saunders distribution parameterized by its means_. Jointly with J. Leao, V. Leiva and V. Tomazella. Proceedings of the 22th SINAPE, 2016.
-  80.   _A new Birnbaum-Saunders frailty model and associated inference_. Jointly with J. Leao, V. Leiva and V. Tomazella. Proceedings of the 22th SINAPE, 2017.
-  81.  _A Birnbaum-Saunders regression model for censored data_. Jointly with M. DeSousa, V. Leiva and P. Scalco. Proceedings of the 15th Brazilian School of Regression Models- ANPEC, 2017.
-  82.  _Modelo de regressão log-simétrico: uma aplicação com dados de cinema_. Jointly with M. S. Ventura. Proceedings of the 2nd International Seminar on Statistics with R, 2017.
-  83.  _A new asymmetric regression model for left-censored data_. Jointly with M. DeSousa, M. Santos-Neto and V. Leiva. Proceedings of the 1st SEMP, 2017.
-  84.  _On a mixture regression model for left-censored data_. Jointly with M. DeSousa, M. Santos-Neto and V. Leiva. Proceedings of the 32nd International Workshop on Statistical Modelling, 2017.
-  85.  _A new family of log-ACD models based on log-symmetric distributions_. Jointly with J. Leao. Proceedings of the 17th Brazilian Time Series and Econometrics School, 2017.
-  86. _Asymmetric autoregressive conditional duration models applied to high-frequency financial data_. Jointly withJ. Leao, V. Leiva and R. G. Aykroyd. Proceedings of the 17th Brazilian Time Series and Econometrics School, 2017.
-  87.  _Spatial join on positional uncertain data_. Jointly with W. B. Oliverira, S. S. T. Oliveira, V. J. S. Rodrigues and K. V. Cardoso. Proceedings of the 32nd Brazilian Symposium on Databases, 2017.
-  88.  _Log-symmetric regression models for left-censored data_. Jointly with J. Leao, J. Nobre and N. Balakrishnan. Proceedings of the 5th Workshop on Survival Analysis and Applications, 2018.
-  89. _A general class of tobit models_. Jointly with J. Leao, J. Nobre and N. Balakrishnan. Proceedings of the 21st ANPEC-SUL, 2018.
-  90. _A bivariate approach to the Mincerian earnings equation_. Jointly with D. R. Cunha, S. E. Monsueto and J. A. Divino. Proceedings of the XLVII Brazilian Economics Meeting - ANPEC, 2019.
--->
+ 
 
 
 
