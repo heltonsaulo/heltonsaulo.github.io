@@ -203,11 +203,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   79.  [_Bivariate distributions on the unit square: Theoretical properties and applications_](https://arxiv.org/abs/2301.05585). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Journal of Applied Statistics**.
   80.  [_Parametric quantile autoregressive moving average models with exogenous terms_](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
   81.  [_The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data_](https://arxiv.org/abs/2105.03806). Jointly with D. R. Cunha and J. A. Divino. To appear in **Computational Economics**.
-
-
-
 ### Working Papers
-
   82.  [_Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data_](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
   83.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo.
   84.  [_Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data_](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
@@ -223,13 +219,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   94.   [_A multivariate Birnbaum-Saunders lifetime regression model_](https://). Jointly with F. Vilca and R. C. Zeller.
   95.   [_Family of multivariate distributions for modeling data with positive support: Properties, regression and applications_](https://). Jointly with J. Monterios, R. Vila and F Quintino.
   96.   [_Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications_](https://). Jointly with L. Santos, R. Vila and F Quintino.
-
-
-
-  
-  
 ### Book Chapters
-
   97.  [_Monitoring environmental risk by a methodology based on control charts_](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
   98.  [_Environmental applications based on Birnbaum-Saunders models_](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
   99.  [_Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications_](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
