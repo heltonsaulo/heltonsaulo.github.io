@@ -1,127 +1,13 @@
 ---
-layout: cv2
-permalink: /CV/
-title: cv
+layout: page
+permalink: /Journal/
+title: publications
+description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 2
-cv_pdf: cvheltonsaulo.pdf # example_pdf.pdf
-description:  #This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+nav_order: 3
 ---
 
-
-
-
-## Personal Information
-
-__Name:__ Helton Saulo Bezerra dos Santos (Helton Saulo)\
-__Email:__ heltonsaulo@gmail.com\
-__URL:__ [https://heltonsaulo.github.io](https://heltonsaulo.github.io)\
-__Languages:__ Portuguese (native), English (fluent) and Spanish (intermediate)\
-__Professional Address:__\
-Department of Statistics\
-University of Brasilia\
-Brasilia, DF\
-Brazil 70910-900 \
-Phone: +55 61 3107-3696
-
-
-
-
-
-## Education
-+ Ph.D. in Economics, Federal University of Rio Grande do Sul, Brazil, 2010-2013, 
- under the supervision of Prof. Flavio A. Ziegelmann and Prof. Victor Leiva. The thesis is titled *Essays on Birnbaum-Saunders Models*.
-+ Visiting doctoral student at McMaster University, Canada, 2013, under the supervision of Prof. Narayanaswamy Balakrishnan.
-+ M.Sc. in Statistics, Federal University of Pernambuco, Brazil, 2008-2010.
-+ B.A. in Economics, Catholic University of Brasilia, Brazil, 2004-2007.
-+ Technician Diploma in Electrotechnics. Technical School of Brasilia, Brazil, 2002-2004.
-
-
-
-## Postdoc
-
-+ Post-doctoral Fellow. McMaster University, Hamilton, Canada, 2014-2015.
-Scholarship from: CAPES. Areas: Computational Statistics, Mathematical Statistics and Econometrics. 
-Supervisor: Professor Narayanaswamy Balakrishnan.
-+ Post-doctoral Fellow. McMaster University, Hamilton, Canada, 2019-2020.
-Scholarship from: FAP/DF. Areas: Financial Econometrics, Computational Statistics and Statistical Modeling. 
-Supervisor: Professor Narayanaswamy Balakrishnan.
-+ Post-doctoral Fellow. University of Texas at Arlington, Arlington, USA, 2023-current.
-Scholarship from: CNPq. Areas: Computational Statistics, Mathematical Statistics and Econometrics. 
-Supervisor: Professor Suvra Pal.
-
-
-
-
-
-
-## Fellowships, Awards and Grants
-+ 3rd place, International Association for Statistical Computing (IASC) Data Analysis Competition 2023.
-+ Top Cited Article 2021-2022: "Log-symmetric quantile regression models", Statistica Neerlandica, Wiley.
-+ Top Cited Article 2021-2022: "Birnbaum-Saunders quantile regression and its diagnostics with application to economic data", Applied Stochastic Models in Business and Industry, Wiley.
-+ Top Cited Article 2021-2022: "A new BISARMA time series model for forecasting mortality using weather and particulate matter data", Journal of Forecasting, Wiley.
-+ Top Cited Article 2020-2021: "Log-symmetric quantile regression models", Statistica Neerlandica, Wiley.
-+ Top Cited Article 2020-2021: "Birnbaum-Saunders quantile regression and its diagnostics with application to economic data", Applied Stochastic Models in Business and Industry, Wiley.
-+ Top Cited Article 2020-2021: "A new BISARMA time series model for forecasting mortality using weather and particulate matter data", Journal of Forecasting, Wiley.
-+ Research productivity grant, level 2 - CNPq
-+ Top Cited Article 2019-2020: "Log‐symmetric regression models: information criteria and application to movie business and industry data with economic implications", Applied Stochastic Models in Business and Industry, Wiley.
-+ Top Downloaded Paper 2018-2019: "Discussion of Birnbaum-Saunders distribution: A review of models, analysis, and applications by N. Balakrishnan and Debasis Kundu", Applied Stochastic Models in Business and Industry, Wiley.
-+ Top Downloaded Paper 2018-2019: "Log‐symmetric regression models: information criteria and application to movie business and industry data with economic implications", Applied Stochastic Models in Business and Industry, Wiley.
-+ Recipient of postdoctoral scholarship, FAP/DF, Brazil, 2019--2020.
-+ Certificate of Outstanding Contribution in Reviewing, Computational Statistics \& Data Analysis, 2015. 
-+ Recipient of postdoctoral scholarship, Ministry of Education, Brazil, 2014--2015.
-+ Recipient of undergraduate scholarship for Optimal Monetary Policy studies, Ministry of Science and Technology, Brazil, 2005--2007.
-+ Recipient of graduate scholarship for Master's Program, Ministry of Science and Technology, Brazil, 2008--2010.
-+ Recipient of graduate scholarship for Doctoral Program, Ministry of Education, Brazil, 2010--2014.
-+ Travel Grant. Grant from UFRGS to present a paper at the XXXIV Brazilian Meeting of Econometrics in Porto de Galinhas (Brazil) in December 2012.
-+ Pre-doctoral Research Fellow for Studies Abroad, Ministry of Science and Technology, Brazil, 2013.
-
-## Editorial Boards
-
-+ Associate Editor of the Journal of Applied Statistics
-+ Associate Editor of the Journal of Statistical Theory and Practice
-+ Associate Editor of the Chilean Journal of Statistics
-+ Associate Editor of the NEXUS Mathematicæ
-
-
-## Teaching Experience
-
-As an Assistant Professor in the Department of Statistics, University of Brasilia, Brazil, 2017-present:
-
-+ Computational Econometrics (graduate);
-+ Computational Modeling (graduate);
-+ Computational Statistics (undergraduate);
-+ Computational Techniques in Statistics (graduate);
-+ Research Methods in Statistics (graduate);
-+ Probability and Statistics (undergraduate);
-+ Statistical Computing 2 (undergraduate);
-+ Statistical Quality Control (undergraduate);
-+ Applied Statistics (undergraduate).
-
-As an Assistant Professor in the Institute of Mathematics and Statistics, Federal University of Goias, Brazil, 2014-2017:
-
-+ Computational Statistics II (graduate);
-+ Computational Statistics II (undergraduate);
-+ Time Series (undergraduate);
-+ Introduction to Biostatistics with R (undergraduate).
-+ Econometrics (graduate);
-+ Topics in Statistics (undergraduate).
-+ Computational Statistics I (undergraduate).
-
-
-
-## Major Research Interests
-
-+ Financial Econometrics
-+ Machine Learning
-+ Computational Statistics 
-
-
-## Research
-
- 
-### Journal articles
-
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal articles 
   1.  [_Equilibrium, adverse selection, and statistical distributions_](http://www.accessecon.com/Pubs/EB/2011/Volume31/EB-11-V31-I3-P186.pdf). Jointly with J. Leao. **Economics Bulletin**, 31, 2066-2074, 2011.
   2.  [_The Kumaraswamy Birnbaum Saunders distribution_](https://www.tandfonline.com/doi/abs/10.1080/15598608.2012.719814). Jointly with J. Leao and M. Bourguignon. **Journal of Statistical Theory and Practice**, 1, 1-13, 2012.
   3.  [_Generalized Birnbaum-Saunders kernel density estimators and an analysis of financial data_](https://www.sciencedirect.com/science/article/pii/S0167947313000285). Jointly with C. Marchant, K. Bertin, and V. Leiva. **Computational Statistics and Data Analysis**, 63, 1-15, 2013.
@@ -198,16 +84,12 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   74.  [_A bivariate approach to the Mincerian earnings equation_](http://bibliotecadigital.fgv.br/ojs/index.php/rbe). Jointly with D. R. Cunha, S. Monsueto and J. A. Divino. To appear in **Revista Brasileira de Economia**.
   75.  [_Theoretical results and modeling under the discrete Birnbaum-Saunders distribution_](https://doi.org/10.1080/03610926.2022.2037642). Jointly with F. Vilca, R. Vila, J Leão and L. Sánchez. To appear in **Communications in Statistics - Theory and Methods**.
   76.  [_Parametric and partially linear regressions for agricultural economy data_](https://doi.org/10.1080/03610926.2022.2117987). Jointly with J. C. S. Vasconcelos, G. M. Cordeiro and E. M. M. Ortega. To appear in **Communications in Statistics - Theory and Methods**.
-  77.   [_The social functioning related to substance use disorder before and after treatment in a CAPS-AD in Brazil: a longitudinal study with Occupational Therapy contributions_](https://www.cadernosdeterapiaocupacional.ufscar.br/index.php/cadernos). Jointly with S. Moreira; E. Nakano, K. Oliveira, K. Miranda, R. Fonseca and A. Gallassi. To appear in **Brazilian Journal Of Occupational Therapy**.
-  78.   [_Regressão quantílica na análise da letalidade da COVID-19 nos municípios do estado de São Paulo_](https://rbes.ibge.gov.br/). Jointly with G. T. Alves, R. Fernandez, L. Correia and J. Fiorucci. To appear in **Revista Brasileira de Estatística**.
+  77.  [_The social functioning related to substance use disorder before and after treatment in a CAPS-AD in Brazil: a longitudinal study with Occupational Therapy contributions_](https://www.cadernosdeterapiaocupacional.ufscar.br/index.php/cadernos). Jointly with S. Moreira; E. Nakano, K. Oliveira, K. Miranda, R. Fonseca and A. Gallassi. To appear in **Brazilian Journal Of Occupational Therapy**.
+  78.  [_Regressão quantílica na análise da letalidade da COVID-19 nos municípios do estado de São Paulo_](https://rbes.ibge.gov.br/). Jointly with G. T. Alves, R. Fernandez, L. Correia and J. Fiorucci. To appear in **Revista Brasileira de Estatística**.
   79.  [_Bivariate distributions on the unit square: Theoretical properties and applications_](https://arxiv.org/abs/2301.05585). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Journal of Applied Statistics**.
   80.  [_Parametric quantile autoregressive moving average models with exogenous terms_](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
   81.  [_The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data_](https://arxiv.org/abs/2105.03806). Jointly with D. R. Cunha and J. A. Divino. To appear in **Computational Economics**.
-
-
-
-### Working Papers
-
+## Working Papers
   82.  [_Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data_](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
   83.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo.
   84.  [_Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data_](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
@@ -222,14 +104,8 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   93.   [_Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data_](https://). Jointly with S. Pal and R. Vila.
   94.   [_A multivariate Birnbaum-Saunders lifetime regression model_](https://). Jointly with F. Vilca and R. C. Zeller.
   95.   [_Family of multivariate distributions for modeling data with positive support: Properties, regression and applications_](https://). Jointly with J. Monterios, R. Vila and F Quintino.
-  96.   [_Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications_](https://). Jointly with L. Santos, R. Vila and F Quintino.
-
-
-
-  
-  
-### Book Chapters
-
+  96.   [_Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications_](https://). Jointly with L. Santos, R. Vila and F Quintino.  
+## Book Chapters
   97.  [_Monitoring environmental risk by a methodology based on control charts_](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
   98.  [_Environmental applications based on Birnbaum-Saunders models_](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
   99.  [_Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications_](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
@@ -238,160 +114,19 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 
 
 
- <!--
- ### Proceedings
-  73.  _The McPE distribution with application to financial data_. Jointly with J. Leao and M. Bourguignon. Proceedings of the 20th SINAPE , 2012.
-  68.  _Nonparametric estimation of the density function based on skew Birnbaum-Saunders distributions_. Jointly with V. Leiva, C. Marchant and F. Ziegelmann. Proceedings of the X Congreso Latinoamericano de Sociedades de Estadística , 2012.
-  69.  _Wavelet transforms and nonparametric volatility estimation_. Jointly with A. S. Junior. Proceedings of the Fifth Brazilian Conference on Statistical Modelling in Insurance and Finance, 2012.
-  70.  _Density estimation using skew-Birnbaum-Saunders kernels_. Jointly with V. Leiva, C. Marchant and  F. Ziegelmann. Proceedings of the XXXIV Brazilian Meeting of Econometrics, 2012.
-  71.  _Fiscal and monetary policy interactions: a game theoretical approach_. Jointly with L. Rego and J. Divino. Proceedings of the XXXIV Brazilian Meeting of Econometrics, 2012.
-  72.  _Capability indices for Birnbaum-Saunders processes with applications_. Jointly with V. Leiva, C. Marchant and F. Rojas. Proceedings of the 21st SINAPE , 2014.
-  73.  _Monitoring risk using control charts based on the Birnbaum-Saunders distribution_. Jointly with V. Leiva, F. Ruggeri and C. Marchant. Proceedings of the 60th ISI World Statistics Congress, 2015. 
-  74.  _Distribuição Birnbaum-Saunders baseada no núcleo logístico e alguns problemas de inferência_. Jointly with N. M. S. Rosa. Proceedings of the 2nd Encontro Goiano de Probabilidade e Estatística, 2015.
-  75.  _Análise de sobrevivência: uma aplicação para a evasão universitária na UFG, 2009_. Jointly with N. R. Damasceno, M. E. P. Diaz. Proceedings of the 2nd Encontro Goiano de Probabilidade e Estatística, 2015.
-  76.  _A method for location recommendation via skyline query tolerant to noisy geo-referenced data_. Jointly with W. Oliveira, S. Oliveira, V. Rodrigues and K. Cardoso. Proceedings of the GEOINFO - XVI Brazilian Symposium on GeoInformatics, 2015.
-  77.  _On some properties of a new asymmetry-based tobit model_. Jointly with M. DeSousa, V. Leiva and P. Scalco. Proceedings of the XLIV Brazilian Economics Meeting, 2016.
-  78.  _On mean/median-based Birnbaum-Saunders autoregressive conditional duration models and their diagnostics and application_. Jointly with J. Leao and Victor Leiva. Proceedings of the 22th SINAPE, 2016.
-  79.   _On a bivariate Birnbaum-Saunders distribution parameterized by its means_. Jointly with J. Leao, V. Leiva and V. Tomazella. Proceedings of the 22th SINAPE, 2016.
-  80.   _A new Birnbaum-Saunders frailty model and associated inference_. Jointly with J. Leao, V. Leiva and V. Tomazella. Proceedings of the 22th SINAPE, 2017.
-  81.  _A Birnbaum-Saunders regression model for censored data_. Jointly with M. DeSousa, V. Leiva and P. Scalco. Proceedings of the 15th Brazilian School of Regression Models- ANPEC, 2017.
-  82.  _Modelo de regressão log-simétrico: uma aplicação com dados de cinema_. Jointly with M. S. Ventura. Proceedings of the 2nd International Seminar on Statistics with R, 2017.
-  83.  _A new asymmetric regression model for left-censored data_. Jointly with M. DeSousa, M. Santos-Neto and V. Leiva. Proceedings of the 1st SEMP, 2017.
-  84.  _On a mixture regression model for left-censored data_. Jointly with M. DeSousa, M. Santos-Neto and V. Leiva. Proceedings of the 32nd International Workshop on Statistical Modelling, 2017.
-  85.  _A new family of log-ACD models based on log-symmetric distributions_. Jointly with J. Leao. Proceedings of the 17th Brazilian Time Series and Econometrics School, 2017.
-  86. _Asymmetric autoregressive conditional duration models applied to high-frequency financial data_. Jointly withJ. Leao, V. Leiva and R. G. Aykroyd. Proceedings of the 17th Brazilian Time Series and Econometrics School, 2017.
-  87.  _Spatial join on positional uncertain data_. Jointly with W. B. Oliverira, S. S. T. Oliveira, V. J. S. Rodrigues and K. V. Cardoso. Proceedings of the 32nd Brazilian Symposium on Databases, 2017.
-  88.  _Log-symmetric regression models for left-censored data_. Jointly with J. Leao, J. Nobre and N. Balakrishnan. Proceedings of the 5th Workshop on Survival Analysis and Applications, 2018.
-  89. _A general class of tobit models_. Jointly with J. Leao, J. Nobre and N. Balakrishnan. Proceedings of the 21st ANPEC-SUL, 2018.
-  90. _A bivariate approach to the Mincerian earnings equation_. Jointly with D. R. Cunha, S. E. Monsueto and J. A. Divino. Proceedings of the XLVII Brazilian Economics Meeting - ANPEC, 2019.
--->
 
 
 
 
 
-## Professional Presentations
-
-1. XXXIV Brazilian Meeting of Econometrics, Brazil, December 2012 ("Fiscal and monetary policy interactions: a game theoretical approach"). 
-2. Department of Statistics, Federal University of Piaui, Brazil, January 2013 ("Nonparametric kernel density estimation").
-3. Department of Mathematics and Statistics, McMaster University, Canada, March 2013 ("A nonparametric method for estimating asymmetric densities based on skewed Birnbaum-Saunders distributions").
-4. Department of Mathematics and Statistics, McMaster University, Canada, November 2014 ("A family of autoregressive conditional duration models applied to financial data").
-5. Inter-institutional program of Graduate Studies in Statistics, UFSCar-USP, Brazil, November 2015 (``On
-Birnbaum-Saunders autoregressive conditional duration models applied to high frequency financial data'').
-6. II International Workshop on Statistical Models for Business, Engineering and Sciences, Universidad Adolfo Ibanes, Chile, October 2015 (``Influence diagnostics in Birnbaum-Saunders autoregressive conditional duration models with a financial application'').
-7. Department of Statistics, University of Brasilia, Brazil, May 2016 (``On mean/median-based Birnbaum-Saunders autoregressive conditional duration models and their diagnostics and application'').
-8. 15th Brazilian School of Regression Models, Brazil, March 2017 (``A Birnbaum-Saunders regression model for censored data'').
-9. Institute of Mathematics and Statistics, Federal University of Goias, Brazil, June 2017 (``Asymmetric autoregressive conditional duration models applied to high-frequency financial data'').
-10. 5th Workshop on Survival Analysis and Applications, Brazil, February 2018 (``Log-symmetric regression models for left-censored data'').
-11. 3rd Goias Meeting on Probability and Statistics, Brazil, March 2018 (``Monte Carlo methods in inference and resampling'').
-12. 16th Brazilian School of Regression Models, Brazil, March 2019 (``Log-symmetric regression models with allowance for correlated errors applied to mortality data'').
-13. Primer Webinar Ciencias Básicas Aplicadas, Colombia, August 2020 (``On a quantile autoregressive conditional duration
-model applied to high-frequency financial data'').
-14. Joint Statistical Meetings, USA, August 2021 (``On a quantile autoregressive conditional duration
-model applied to high-frequency financial data'').
-15. Department of Economics, Federal University of Pelotas, Brazil, November 2021 (``On a quantile autoregressive conditional duration
-model applied to high-frequency financial data'').
-16. Department of Statistics, Federal University of Rio de Janeiro, Brazil, November 2021 (``Quantile autoregressive conditional duration
-models'').
-17. Department of Statistics, Federal University of Minas Gerais, Brazil, December 2021 (``Quantile autoregressive conditional duration
-models'').
-18. XLVI Jornadas Nacionales de Estadística, Chile, October 2022 (``On a quantile duration model applied to high-frequency financial data'').
 
 
 
 
-## Journal Refereeing
-
-1. Computational Statistics \& Data Analysis
-2. Stochastic Environmental Research and Risk Assessment 
-3. Chilean Journal of Statistics 
-4. Economics Bulletin
-5. Ciência e Natura
-6. Revstat Statistical Journal 
-7. Journal of Applied Statistics 
-8. Revista Brasileira de Biometria 
-9. Emerging Markets Finance and Trade
-10. Communications in Statistics. Simulation and Computation 
-11. Communications in Statistics. Theory and Methods
-12. Brazilian Journal of Business Economics
-13. Pakistan Journal of Statistics and Operation Research 
-14. Applied Stochastic Models in Business and Industry 
-15. Statistics,Optimization \& Information Computing 
-16. Mathematics and Computers in Simulation 
-17. International Journal of Management Science and Engineering Management 
-18. Applied Mathematical Modelling
-19. Annals of the Brazilian Academy of Sciences 
-20. IEEE Transactions on Reliability 
-21. São Paulo Journal of Mathematical Sciences
-22. Medical Hypotheses
-23. American Journal of Mathematical and Management Sciences
-24. Communications for Statistical Applications and Methods
-25. Statistics in Transition New Series
-26. Sankhya B
-27. Stats
-28. Entropy
-29. International Journal of Environmental Research and Public Health
-30. STATISTICA 
-31. BMC Medical Research Methodology 
-32. Colombian Journal of Statistics
-33. The American Statistician
-34. Applied Economics
-35. Journal of Contemporary Administration
-36. Journal of Statistical Theory and Applications
-37. Statistica Neerlandica
-38. Stat
-39. Environmetrics
-40. PLOS ONE
-41. Mathematical Methods In the Applied Sciences
-42. Statistical Methods in Medical Research
-43. Australian \& New Zealand Journal of Statistics
-44. Journal of Computational and Applied Mathematics
-45. Computational Economics
-46. Ecological Informatics
-47. Empirical Economics
 
 
 
-## Graduate Supervision
 
 
-1. **Mário Fernando de Sousa**. M.Sc. in Economics  (2016). Title: Two essays on Birnbaum-Saunders regression models for censored data. Institution: Federal University of Goias.
-2. **Leandro Valerio Silva**. M.Sc. in Economics  (2017). Title: Control charts for monitoring tax renenue. Institution: Federal University of Goias.
-3. **Douglas Pivato** (co-supervisor). M.Sc. in Economics  (2017). Title: Estimating the optimal time of a concession contract: analysis of the projects of the third stage of the federal highway concession program. Institution: Federal University of Pelotas.
-4. **Danúbia Rodrigues da Cunha** (co-supervisor). M.Sc. in Economics  (2018). Title: Bivariate regression models: an application to Mincerian earnings equations. Institution: Federal University of Goias.
-5. **Marcelo dos Santos Ventura**. M.Sc. in Economics  (2018). Title: Monte Carlo simulation studies in log-symmetric regression models. Institution: Federal University of Goias.
-6. **Rubens Batista de Souza**. M.Sc. in Statistics  (2018). Title: Birnbaum-Saunders time series models. Institution: University of Brasilia.
-7. **Regina dos Santos Resende Fortes**. M.Sc. in Statistics (2020). Title: Birnbaum-Saunders survival model with spatial frailty. Institution: University of Brasilia.
-8. **Leonardo de Sousa Paiva**. M.Sc. in Statistics (2020). Title: On a new family of discrete distributions. Institution: University of Brasilia.
-9. **Alan da Silva**. M.Sc. in Statistics (2020). Title: Quantile regression with asymmetric distributions. Institution: University of Brasilia.
-10. **Ana Lívia Protázio Sá** (co-supervisor). M.Sc. in Statistics (2022). Title: Bivariate log-symmetric models: Theoretical properties and parameter estimation. Institution: University of Brasilia.
-11. **Shayane dos Santos Cordeiro**. M.Sc. in Statistics (2022). Title: Symmetric generalized Heckman models. Institution: University of Brasilia.
-12. **Giovanna Valadares Borges**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for income data. Institution: University of Brasilia.
-13. **Verônica Lelis Bittencourt**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for extreme events. Institution: University of Brasilia.
-14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (current). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
-15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (current). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
-
-
-
-## Conference Organizing Committees
-
-+ 16th Brazilian School of Regression Models, 2019.
-+  Workshop on Statistics and Probability, Satellite meeting - ICM, 2018 
-+ 15th Brazilian School of Regression Models, 2017.
-+ 1st Workshop on Business Statistics with Applications, 2016.
-+ 1st Seminar on Applied Statistics, 2016.
-+ 2nd Goias Meeting of Probability and Statistics, 2015.
-
-
-## Conference Scientific Committees
-
-+ 17th Brazilian School of Regression Models, 2021.
-
-
-## Computational Skills
-
-+ Statistical/Mathematical/Programing Languages: C, Ox, R, Python
-+ Typesetting: LaTeX, R Markdown, Quarto
-+ Operating System: Debian-based Linux distributions.
 
 
