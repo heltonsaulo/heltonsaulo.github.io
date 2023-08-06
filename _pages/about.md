@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Statistics at the University of Brasilia, Brazil. I received my Ph.D. in Economics from the Federal University of Rio Grande do Sul, Brazil. I undertook postdoctoral studies in Statistics at McMaster University, Canada, under the supervision of Prof. N. Balakrishnan. My research interests include financial econometrics, machine learning and computational statistics. 
+I am an Assistant Professor of Statistics at the University of Brasilia, Brazil. I received my Ph.D. in Economics from the Federal University of Rio Grande do Sul, Brazil. I undertook postdoctoral studies in Statistics at McMaster University, Canada, under the supervision of Prof. N. Balakrishnan. My research interests include financial econometrics, machine learning, statistical Learning and computational statistics. 
 
 <!--I serve as an Associate Editor for the Journal of Applied Statistics, Journal of Statistical Theory and Practice, and Chilean Journal of Statistics.-->
 
