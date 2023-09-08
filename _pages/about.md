@@ -7,7 +7,7 @@ subtitle: <a href='http://www.est.unb.br/'>Department of Statistics, University 
 profile:
   align: right
   image: IMG-2169.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular 
   address: >
 #    <p>555 your office number</p>
  #   <p>123 your address street</p>
