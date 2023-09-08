@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Statistics at the University of Brasilia, Brazil. I received my Ph.D. in Economics from the Federal University of Rio Grande do Sul, Brazil. I undertook postdoctoral studies in Statistics at McMaster University, Canada, under the supervision of Prof. N. Balakrishnan. My research interests include financial econometrics, machine learning, statistical Learning and computational statistics. 
+I am an Assistant Professor of Statistics at the University of Brasilia, Brazil. I received my Ph.D. in Economics from the <a href = "https://www.ufrgs.br/ppge/">  Federal University of Rio Grande do Sul</a>, Brazil. I undertook postdoctoral studies in Statistics at <a href = "https://math.mcmaster.ca/">  McMaster University</a>, Canada, under the supervision of <a href = "https://ms.mcmaster.ca/bala/">  Prof. Dr. N. Balakrishnan</a>, and at the <a href = "https://www.uta.edu/academics/schools-colleges/science/departments/mathematics">  University of Texas at Arlington</a>, USA, under the supervision of <a href = "https://www.uta.edu/academics/faculty/profile?username=pals">  Dr. S. Pal</a>. My research interests include financial econometrics, machine learning, statistical Learning and computational statistics. 
 
 <!--I serve as an Associate Editor for the Journal of Applied Statistics, Journal of Statistical Theory and Practice, and Chilean Journal of Statistics.-->
 
@@ -27,9 +27,9 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
  <h3>Editorial Duties</h3>
  
  <ul>	
-<li> Assoc. Editor, <a href = "https://www.tandfonline.com/toc/cjas20/current">  Journal of Applied Statistics</a> </li> 
-<li> Assoc. Editor, <a href = "https://www.springer.com/journal/42519/">  Journal of Statistical Theory and Practice</a> </li> 
-<li> Assoc. Editor, <a href = "http://soche.cl/chjs/"> Chilean Journal of Statistics</a> </li> 
+<li> Associate Editor, <a href = "https://www.tandfonline.com/toc/cjas20/current">  Journal of Applied Statistics</a> </li> 
+<li> Associate Editor, <a href = "https://www.springer.com/journal/42519/">  Journal of Statistical Theory and Practice</a> </li> 
+<li> Associate Editor, <a href = "http://soche.cl/chjs/"> Chilean Journal of Statistics</a> </li> 
 </ul>
 
 <h3>Topics of Research</h3>
@@ -38,7 +38,7 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
 <li> Financial Econometrics </li> 
 <li> Machine Learning </li> 
 <li> Statistical Learning </li> 
-<li>  Computational Statistics </li> 
+<li> Computational Statistics </li> 
 </ul>
 
 <h3>Selected publications</h3>
