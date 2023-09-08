@@ -46,7 +46,7 @@ Supervisor: Professor Narayanaswamy Balakrishnan.
 + Post-doctoral Fellow. McMaster University, Hamilton, Canada, 2019-2020.
 Scholarship from: FAP/DF. Areas: Financial Econometrics, Computational Statistics and Statistical Modeling. 
 Supervisor: Professor Narayanaswamy Balakrishnan.
-+ Post-doctoral Fellow. University of Texas at Arlington, Arlington, USA, 2023-current.
++ Post-doctoral Fellow. University of Texas at Arlington, Arlington, USA, 2023.
 Scholarship from: CNPq. Areas: Computational Statistics, Mathematical Statistics and Econometrics. 
 Supervisor: Professor Suvra Pal.
 
@@ -81,7 +81,6 @@ Supervisor: Professor Suvra Pal.
 + Associate Editor of the Journal of Applied Statistics
 + Associate Editor of the Journal of Statistical Theory and Practice
 + Associate Editor of the Chilean Journal of Statistics
-+ Associate Editor of the NEXUS Mathematicæ
 
 
 ## Teaching Experience
@@ -219,11 +218,12 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   94.   [_A multivariate Birnbaum-Saunders lifetime regression model_](https://). Jointly with F. Vilca and R. C. Zeller.
   95.   [_Family of multivariate distributions for modeling data with positive support: Properties, regression and applications_](https://). Jointly with J. Monterios, R. Vila and F Quintino.
   96.   [_Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications_](https://). Jointly with L. Santos, R. Vila and F Quintino.
+  97.   [_Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk_](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.  
 ### Book Chapters
-  97.  [_Monitoring environmental risk by a methodology based on control charts_](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
-  98.  [_Environmental applications based on Birnbaum-Saunders models_](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
-  99.  [_Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications_](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
- 100.  [_Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile_](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
+  98.  [_Monitoring environmental risk by a methodology based on control charts_](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
+  99.  [_Environmental applications based on Birnbaum-Saunders models_](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
+ 100.  [_Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications_](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
+ 101.  [_Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile_](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
  
 
 
