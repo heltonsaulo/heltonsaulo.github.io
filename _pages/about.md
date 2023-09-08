@@ -32,7 +32,7 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
 <li> Associate Editor, <a href = "http://soche.cl/chjs/"> Chilean Journal of Statistics</a> </li> 
 </ul>
 
-<h3>Topics of Research</h3>
+<h3>Topics of Research</h3> 
 
 <ul>	
 <li> Financial Econometrics </li> 
