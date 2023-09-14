@@ -25,8 +25,19 @@ Brazil 70910-900 \
 Phone: +55 61 3107-3696
 
 
+## Positions Held
++ Assistant Professor of Statistics, University of Brasilia, Brazil, November 2013 – Onwards.
++ Post-doctoral Fellow, University of Texas at Arlington, March 2023 – August 2023.
++ Post-doctoral Fellow, McMaster University, August 2019 – February 2020
++ Post-doctoral Fellow, McMaster University, August 2014 – July 2015.
++ Assistant Professor of Statistics, Federal University of Goias, Brazil, November 2013 – March 2017.
 
+## Editorial Boards
 
++ Associate Editor of the Journal of Applied Statistics.
++ Associate Editor of the Journal of Statistical Theory and Practice.
++ Associate Editor of the Chilean Journal of Statistics.
+  
 
 ## Education
 + Ph.D. in Economics, Federal University of Rio Grande do Sul, Brazil, 2010-2013, 
@@ -76,12 +87,6 @@ Supervisor: Professor Suvra Pal.
 + Travel Grant. Grant from UFRGS to present a paper at the XXXIV Brazilian Meeting of Econometrics in Porto de Galinhas (Brazil) in December 2012.
 + Pre-doctoral Research Fellow for Studies Abroad, Ministry of Science and Technology, Brazil, 2013.
 
-## Editorial Boards
-
-+ Associate Editor of the Journal of Applied Statistics
-+ Associate Editor of the Journal of Statistical Theory and Practice
-+ Associate Editor of the Chilean Journal of Statistics
-
 
 ## Teaching Experience
 
@@ -113,6 +118,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 
 + Financial Econometrics
 + Machine Learning
++ Statistical Learning 
 + Computational Statistics 
 
 
@@ -313,6 +319,7 @@ models'').
 45. Computational Economics
 46. Ecological Informatics
 47. Empirical Economics
+48. Statistics \& Probability Letters
 
 
 
