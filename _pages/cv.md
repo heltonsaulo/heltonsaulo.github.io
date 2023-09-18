@@ -208,11 +208,11 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   79.  [_Bivariate distributions on the unit square: Theoretical properties and applications_](https://arxiv.org/abs/2301.05585). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Journal of Applied Statistics**.
   80.  [_Parametric quantile autoregressive moving average models with exogenous terms_](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
   81.  [_The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data_](https://arxiv.org/abs/2105.03806). Jointly with D. R. Cunha and J. A. Divino. To appear in **Computational Economics**.
+  82.  [_Bivariate log-symmetric models: distributional properties, parameter estimation and an application to public spending data_](https://arxiv.org/abs/2211.13839). Jointly with R. Vila, N. Balakrishnan and A. Protazio. To appear in **Brazilian Journal of Probability and Statistics**.
 ### Working Papers
-  82.  [_Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data_](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
-  83.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo.
-  84.  [_Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data_](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
-  85.  [_Bivariate log-symmetric models: distributional properties, parameter estimation and an application to fatigue data analysis_](https://arxiv.org/abs/2211.13839). Jointly with R. Vila, N. Balakrishnan and A. Protazio.
+  83.  [_Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data_](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
+  84.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo.
+  85.  [_Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data_](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
   86.   [_An upper bound and a characterization for Gini’s mean difference based on correlated random variables_](https://arxiv.org/abs/2301.07229). Jointly with R. Vila and N. Balakrishnan.
   87.   [_Evaluation of the fear of covid-19 among students from an undergraduate nursing course during the epidemiological situation of 2022_](https://). Jointly with A. Santana and C. C. Reis.
   88.   [_A semiparametric accelerated failure time based mixture cure tree_](https://). Jointly with W. Aselisewine and S. Pal.
