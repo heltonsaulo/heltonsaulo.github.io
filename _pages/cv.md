@@ -14,7 +14,7 @@ description:  #This is a description of the page. You can modify it in 'pages/_c
 **Name:** Helton Saulo Bezerra dos Santos (Helton Saulo)\
 **Email:** heltonsaulo\@gmail.com\
 **URL:** <https://heltonsaulo.github.io>\
-**Languages:** Portuguese (native), English (fluent) and Spanish (intermediate)\
+**Languages:** Portuguese, English and Spanish\
 **Professional Address:**\
 Department of Statistics\
 University of Brasilia\
