@@ -193,7 +193,6 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   83.  [Parametric quantile autoregressive moving average models with exogenous terms](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
   84.  [The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data](https://doi.org/10.1007/s10614-023-10420-4). Jointly with D. R. Cunha and J. A. Divino. To appear in **Computational Economics**.
   85.  [A parametric quantile beta regression for modeling case fatality rates of COVID-19](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo. To appear in **International Statistical Review**.  
-
 #### Working Papers
   86.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
   87.  [Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
@@ -208,7 +207,6 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   96.   [Family of multivariate distributions for modeling data with positive support: Properties, regression and applications](https://). Jointly with J. Monterios, R. Vila and F Quintino.
   97.   [Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications](https://). Jointly with L. Santos, R. Vila and F Quintino.
   98.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.  
-
 #### Book Chapters
   99.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
  100.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
