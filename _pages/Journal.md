@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal articles 
-  1.  \textcolor{red}{[_Equilibrium, adverse selection, and statistical distributions_](http://www.accessecon.com/Pubs/EB/2011/Volume31/EB-11-V31-I3-P186.pdf)}. Jointly with J. Leao. **Economics Bulletin**, 31, 2066-2074, 2011.
+  1.  [_Equilibrium, adverse selection, and statistical distributions_](http://www.accessecon.com/Pubs/EB/2011/Volume31/EB-11-V31-I3-P186.pdf). Jointly with J. Leao. **Economics Bulletin**, 31, 2066-2074, 2011.
   2.  [_The Kumaraswamy Birnbaum Saunders distribution_](https://www.tandfonline.com/doi/abs/10.1080/15598608.2012.719814). Jointly with J. Leao and M. Bourguignon. **Journal of Statistical Theory and Practice**, 1, 1-13, 2012.
   3.  [_Generalized Birnbaum-Saunders kernel density estimators and an analysis of financial data_](https://www.sciencedirect.com/science/article/pii/S0167947313000285). Jointly with C. Marchant, K. Bertin, and V. Leiva. **Computational Statistics and Data Analysis**, 63, 1-15, 2013.
   4.  [_A nonparametric method for estimating asymmetric densities based on skewed Birnbaum-Saunders distributions applied to environmental data_](https://link.springer.com/article/10.1007/s00477-012-0684-8). Jointly with V. Leiva, C. Marchant, and F. Ziegelmann. **Stochastic Environmental Research and Risk Assessment**, 27, 1479-1491, 2013.
