@@ -92,8 +92,7 @@ nav_order: 3
   82.  [_Family of bivariate distributions on the unit square: theoretical properties and applications_](https://doi.org/10.1080/02664763.2023.2232127). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Journal of Applied Statistics**.
   83.  [_Parametric quantile autoregressive moving average models with exogenous terms_](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
   84.  [_The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data_](https://doi.org/10.1007/s10614-023-10420-4). Jointly with D. R. Cunha and J. A. Divino. To appear in **Computational Economics**.
-  85.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo. To appear in **International Statistical Review**.
-      
+  85.  [_A parametric quantile beta regression for modeling case fatality rates of COVID-19_](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo. To appear in **International Statistical Review**.  
 ## Working Papers
   86.  [_Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data_](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
   87.  [_Unit-log-symmetric models: Characterization, statistical properties and its use in analyzing internet access data_](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig.
