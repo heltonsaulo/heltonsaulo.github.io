@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /Journal/
 title: publications
 description: # Materials for courses you taught. Replace this text with your description.
