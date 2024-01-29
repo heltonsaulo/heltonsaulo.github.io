@@ -107,7 +107,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 
 <!-- ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal articles -->
 <!--## Journal articles -->
-#### Journal articles
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal articles 
   1.  [Equilibrium, adverse selection, and statistical distributions](http://www.accessecon.com/Pubs/EB/2011/Volume31/EB-11-V31-I3-P186.pdf). Jointly with J. Leao. **Economics Bulletin**, 31, 2066-2074, 2011.
   2.  [The Kumaraswamy Birnbaum Saunders distribution](https://www.tandfonline.com/doi/abs/10.1080/15598608.2012.719814). Jointly with J. Leao and M. Bourguignon. **Journal of Statistical Theory and Practice**, 1, 1-13, 2012.
   3.  [Generalized Birnbaum-Saunders kernel density estimators and an analysis of financial data](https://www.sciencedirect.com/science/article/pii/S0167947313000285). Jointly with C. Marchant, K. Bertin, and V. Leiva. **Computational Statistics and Data Analysis**, 63, 1-15, 2013.
