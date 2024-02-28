@@ -79,6 +79,11 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
   <li>  <a href = "https://doi.org/10.1002/qre.3072"> Bootstrap control charts for quantiles based on log-symmetric distributions with applications to monitoring of reliability data</a>. Jointly with V. Leiva, R. A. Santos, C. Marchant and Y. Lio. <strong>Quality and Reliability Engineering International</strong>, 39, 1-24, 2023.</li> 	
 
  <li>  <a href = "https://doi.org/10.1007/s00362-023-01459-4"> Parametric quantile autoregressive moving average models with exogenous terms</a>. Jointly with V. A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. <strong>Statistical Papers</strong>, 2023.</li>
+
+ <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2023.</li>
+
+ <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2023.</li>
+
      
 </ul>
 	
