@@ -80,9 +80,9 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
 
  <li>  <a href = "https://doi.org/10.1007/s00362-023-01459-4"> Parametric quantile autoregressive moving average models with exogenous terms</a>. Jointly with V. A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. <strong>Statistical Papers</strong>, 2023.</li>
 
- <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2023.</li>
+ <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2024.</li>
 
- <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2023.</li>
+ <li>  <a href = "https://doi.org/10.1016/j.spl.2024.110032"> An upper bound and a characterization for Gini’s mean difference based on correlated random variables</a>. Jointly with R. Vila and N. Balakrishnan. <strong>Statistics & Probability Letters</strong>, 2024.</li>
 
      
 </ul>
