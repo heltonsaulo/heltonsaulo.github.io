@@ -95,7 +95,7 @@ nav_order: 3
   85.  [A parametric quantile beta regression for modeling case fatality rates of COVID-19](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo. To appear in **International Statistical Review**.
   86.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Quality & Quantity**.  
 ## Working Papers
-    87.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
+  87.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
   88.  [Closed-form estimators for an exponential family derived from likelihood equations](https://). Jointly with R. Vila and E. Nakano.
   89.  [Evaluation of the fear of covid-19 among students from an undergraduate nursing course during the epidemiological situation of 2022](https://). Jointly with A. Santana and C. C. Reis.
   90.   [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
