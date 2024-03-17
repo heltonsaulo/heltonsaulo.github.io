@@ -195,19 +195,19 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   85.  [A parametric quantile beta regression for modeling case fatality rates of COVID-19](https://arxiv.org/abs/2110.04428). Jointly with M. Bourguignon and  D. I. Gallardo. To appear in **International Statistical Review**.
   86.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Quality & Quantity**. 
 #### Working Papers
-  86.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
-  87.  [Closed-form estimators for an exponential family derived from likelihood equations](https://). Jointly with R. Vila and E. Nakano.
-  88.  [Evaluation of the fear of covid-19 among students from an undergraduate nursing course during the epidemiological situation of 2022](https://). Jointly with A. Santana and C. C. Reis.
-  89.   [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
-  90.   [Fatores associados à evasão da Universidade Federal de Goiás: Uma análise por meio de técnicas de sobrevivência](https://). Jointly with N. Damasceno, M. Piscoya, R. Fernandez and A. Vasconcelos.
-  91.   [An empirical analysis for Public-Private Partnership projects in the transport sector](https://). Jointly with V. Rebelo, R. Fernandez and C. Shikida.
-  92.   [Avaliação da vulnerabilidade em saúde e cognição em idosos da Atenção Primária à Saúde](https://). Jointly with H. S. Cruz, V. Z. M. Silva, A. Santana.
-  93.   [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant and V. Leiva.
-  94.   [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  95.   [A multivariate Birnbaum-Saunders lifetime regression model](https://). Jointly with F. Vilca and R. C. Zeller.
-  96.   [Family of multivariate distributions for modeling data with positive support: Properties, regression and applications](https://). Jointly with J. Monterios, R. Vila and F Quintino.
-  97.   [Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications](https://). Jointly with L. Santos, R. Vila and F Quintino.
-  98.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.
+  87.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
+  88.  [Closed-form estimators for an exponential family derived from likelihood equations](https://). Jointly with R. Vila and E. Nakano.
+  89.  [Evaluation of the fear of covid-19 among students from an undergraduate nursing course during the epidemiological situation of 2022](https://). Jointly with A. Santana and C. C. Reis.
+  90.   [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
+  91.   [Fatores associados à evasão da Universidade Federal de Goiás: Uma análise por meio de técnicas de sobrevivência](https://). Jointly with N. Damasceno, M. Piscoya, R. Fernandez and A. Vasconcelos.
+  92.   [An empirical analysis for Public-Private Partnership projects in the transport sector](https://). Jointly with V. Rebelo, R. Fernandez and C. Shikida.
+  93.   [Avaliação da vulnerabilidade em saúde e cognição em idosos da Atenção Primária à Saúde](https://). Jointly with H. S. Cruz, V. Z. M. Silva, A. Santana.
+  94.   [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant and V. Leiva.
+  95.   [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  96.   [A multivariate Birnbaum-Saunders lifetime regression model](https://). Jointly with F. Vilca and R. C. Zeller.
+  97.   [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
+  98.   [On stress-strength reliability for the transmuted GEV distribution](https://). Jointly with M. Oliveira, F. S. Quintino, D. Aguiar, P. N. Rathie, T. A. Fonseca and L. C. S. M. Ozelim.
+  99.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.
  100.   [A bivariate regression model with varying dispersion and correlation parameters applied to newborn data](https://). Jointly with R. Vila and R. Souza.   
 #### Book Chapters
  101.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
