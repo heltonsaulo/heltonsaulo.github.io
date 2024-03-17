@@ -12,7 +12,7 @@ description:  #This is a description of the page. You can modify it in 'pages/_c
 ## Personal Information
 
 **Name:** Helton Saulo Bezerra dos Santos (Helton Saulo)\
-**Email:** heltonsaulo\@gmail.com\
+**Email:** heltonsaulo@gmail.com\
 **URL:** <https://heltonsaulo.github.io>\
 **Languages:** Portuguese, English and Spanish\
 **Professional Address:**\
