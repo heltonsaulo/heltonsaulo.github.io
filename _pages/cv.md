@@ -321,6 +321,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 ## Conference Scientific Committees
 
 -   17th Brazilian School of Regression Models, 2021.
+-   68th RBras, Data Science, Statistics and Postgraduate Studies: opportunities and challenges, 2024.
 
 ## Computational Skills
 
