@@ -52,6 +52,7 @@ Phone: +55 61 3107-3696
 
 ## Fellowships, Awards and Grants
 
+-   Top Cited Article 2022-2023: "Log-symmetric quantile regression models", Statistica Neerlandica, Wiley.
 -   3rd place, International Association for Statistical Computing (IASC) Data Analysis Competition 2023.
 -   Top Cited Article 2021-2022: "Log-symmetric quantile regression models", Statistica Neerlandica, Wiley.
 -   Top Cited Article 2021-2022: "Birnbaum-Saunders quantile regression and its diagnostics with application to economic data", Applied Stochastic Models in Business and Industry, Wiley.
