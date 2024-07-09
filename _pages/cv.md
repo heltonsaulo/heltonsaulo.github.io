@@ -25,6 +25,7 @@ Phone: +55 61 3107-3696
 ## Positions Held
 
 -   Assistant Professor of Statistics, University of Brasilia, Brazil, March 2017 -- Onwards.
+-   Affiliated Assistant Professor of Economics, Federal University of Pelotas, Brazil, February 2024 -- Onwards.
 -   Post-doctoral Fellow, University of Texas at Arlington, March 2023 -- August 2023.
 -   Post-doctoral Fellow, McMaster University, August 2019 -- February 2020
 -   Post-doctoral Fellow, McMaster University, August 2014 -- July 2015.
@@ -169,7 +170,7 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   58.  [Bayesian inference for the Birnbaum-Saunders autoregressive conditional duration model with application to high-frequency financial data](https://doi.org/10.1080/23737484.2021.1874571). Jointly with F. Nascimento and J. Leao. **Communications in Statistics - Case Studies and Data Analysis**, 7, 215-228, 2021.
   59.  [Modeling mortality based on pollution and temperature using a new Birnbaum–Saunders autoregressive moving average structure with regressors and related-sensors data](https://doi.org/10.3390/s21196518). Jointly with R. Vila, R. Souza, V. Leiva and R. G. Aykroyd. **Sensors**, 21, 6518, 2021.
   60.  [Bayesian inference for the log-symmetric autoregressive conditional duration model](https://www.scielo.br/j/aabc/a/kNvzhsvKhy7MDGMYfvJJFVG/?format=pdf&lang=en). Jointly with J. Leao, R. Paixão and T. Leao. **Annals of the Brazilian Academy of Sciences**, 93, e20190301, 2021.
-  61.  [Effect of education and multimorbidity on mortality among older adults: findings from the health, well-being and ageing cohort study (SABE)](https://doi.org/10.1016/j.puhe.2021.10.001). Jointly with G. M. Bernardes, J. L. F. Santos, D. D. Da Cruz Teixeira, Y. A. De Oliveira Duarte, and F. B. Andrade. **Publich Health**, 201, 69-74, 2021.
+  61.  [Effect of education and multimorbidity on mortality among older adults: findings from the health, well-being and ageing cohort study (SABE)](https://doi.org/10.1016/j.puhe.2021.10.001). Jointly with G. M. Bernardes, J. L. F. Santos, D. D. Da Cruz Teixeira, Y. A. De Oliveira Duarte, and F. B. Andrade. **Public Health**, 201, 69-74, 2021.
   62.  [A new quantile regression model and its diagnostic analytics for a Weibull distributed response with applications](https://doi.org/10.3390/math9212768). Jointly with L. Sanchez, V. Leiva, C. Marchant and J. M. Sarabia. **Mathematics**, 9, 2768, 2021.
   63.  [On some properties of the bimodal normal distribution and its bivariate version](https://soche.cl/chjs/volumes/12/ChJS-12-02-01.pdf). Jointly with R. Vila and J. Roldan. **Chilean Journal of Statistics**, 12, 125-144, 2021.
   64.  [Desenho contratual de parcerias público-privadas para hospitais: algumas notas teóricas](https://portalrevistas.ucb.br/index.php/EALR/article/view/9442). Jointly with R. N. Fernandez and A. Carraro. **Economic Analysis of Law Review**, 12, 200-2018, 2021. 
@@ -193,28 +194,29 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
   82.  [On the stress-strength reliability of transmuted GEV random variables with applications to financial assets selection](https://doi.org/10.3390/e26060441). Jointly with M. Oliveira, F. S. Quintino, D. Aguiar, P. N. Rathie, T. A. Fonseca , and L. C. S. M. Ozelim. **Entropy**, 26, 441, 2024.
   83.  [The zero-adjusted log-symmetric quantile regression model applied to extramarital affairs data](https://doi.org/10.1007/s10614-023-10420-4). Jointly with D. R. Cunha and J. A. Divino. **Computational Economics**, 63, 2087–2111, 2024.
   84.  [Parametric quantile beta regression model](https://doi.org/10.1111/insr.12564). Jointly with M. Bourguignon and  D. I. Gallardo. **International Statistical Review**, 92, 106–129, 2024.
-  85.  [Fatores associados à evasão da Universidade Federal de Goiás: Uma análise por meio de técnicas de sobrevivência](https://periodicos.furg.br/sinergia). Jointly with N. Damasceno, M. Piscoya, R. Fernandez and A. Vasconcelos. To appear in **SINERGIA**.
-  86.  [Family of bivariate distributions on the unit square: theoretical properties and applications](https://doi.org/10.1080/02664763.2023.2232127). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Journal of Applied Statistics**.
-  87.  [Parametric quantile autoregressive moving average models with exogenous terms](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. To appear in **Statistical Papers**.
-  88.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Quality & Quantity**.  
+  85.  [Family of bivariate distributions on the unit square: theoretical properties and applications](https://doi.org/10.1080/02664763.2023.2232127). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. **Journal of Applied Statistics**, 51, 1729-1755, 2024.
+  86.  [Parametric quantile autoregressive moving average models with exogenous terms](https://doi.org/10.1007/s00362-023-01459-4). Jointly with A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. **Statistical Papers**, 65, 1613–1643, 2024.
+  87.  [Unveiling patterns and trends in research on cumulative damage models for statistical and reliability analyses: Bibliometric and thematic
+explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number1-2024). Jointly with V. Leiva, C. Castro and R. Vila. **Chilean Journal of Statistics**, 15, 81–109, 2024.
+  88.  [Fatores associados à evasão da Universidade Federal de Goiás: Uma análise por meio de técnicas de sobrevivência](https://periodicos.furg.br/sinergia). Jointly with N. Damasceno, M. Piscoya, R. Fernandez and A. Vasconcelos. To appear in **SINERGIA**.
+  89.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://arxiv.org/abs/2211.14427). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Quality & Quantity**.  
 #### Working Papers
-  89.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
-  90.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  91.  [Novel closed-form point estimators for a weighted exponential family derived from likelihood equations](https://arxiv.org/abs/2405.16192). Jointly with R. Vila and E. Nakano.
-  92.  [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
-  93.  [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant and V. Leiva.
-  94.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  95.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
-  96.  [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.
-  97.  [A bivariate regression model with varying dispersion and correlation parameters applied to newborn data](https://). Jointly with R. Vila and R. Souza.
-  98. [An empirical analysis for Public-Private Partnership projects in the transport sector](https://). Jointly with V. Rebelo, R. Fernandez and C. Shikida.
-  99. [Avaliação da vulnerabilidade em saúde e cognição em idosos da Atenção Primária à Saúde](https://). Jointly with H. S. Cruz, V. Z. M. Silva, A. Santana.
-  100. [Evaluation of the fear of covid-19 among students from an undergraduate nursing course during the epidemiological situation of 2022](https://). Jointly with A. Santana and C. C. Reis.
+  90.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
+  91.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
+  92.  [Novel closed-form point estimators for a weighted exponential family derived from likelihood equations](https://arxiv.org/abs/2405.16192). Jointly with R. Vila and E. Nakano.
+  93.  [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
+  94.  [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva.
+  95.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  96.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
+  97.  [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.
+  98.  [A bivariate regression model with varying dispersion and correlation parameters applied to newborn data](https://). Jointly with R. Vila and R. Souza.
 #### Book Chapters
-  101.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
- 102.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
- 103.  [Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
- 104.  [Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
+  99.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
+ 100.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
+ 101.  [Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
+ 102.  [Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
+ 
+ 
  
 
 
