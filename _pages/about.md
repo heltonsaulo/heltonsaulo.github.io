@@ -37,8 +37,7 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
 <h3>Topics of Research</h3> 
 
 <ul>	
-<li> Financial Econometrics </li> 
-<li> Machine Learning </li> 
+<li> Econometrics </li> 
 <li> Statistical Learning </li> 
 <li> Computational Statistics </li> 
 </ul>
