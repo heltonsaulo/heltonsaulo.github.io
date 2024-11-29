@@ -199,16 +199,16 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number1-2024). Jointly with V. Leiva, C. Castro and R. Vila. **Chilean Journal of Statistics**, 15, 81–109, 2024.
   88.  [Fatores associados à evasão da Universidade Federal de Goiás: Uma análise por meio de técnicas de sobrevivência](https://doi.org/10.17648/2236-7608-v28n1-15477). Jointly with N. Damasceno, M. Piscoya, R. Fernandez and A. Vasconcelos. **SINERGIA**, 28, 37-57, 2024.
   89.  [Novel closed-form point estimators for a weighted exponential family derived from likelihood equations](https://doi.org/10.1002/sta4.723). Jointly with R. Vila and E. Nakano. **Stat**, 13, e723, 2024.
-  90.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://doi.org/10.1007/s11135-024-01879-w). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. To appear in **Quality & Quantity**.     
-#### Working Papers
-  91.  [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal.
-  92.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  93.  [A semiparametric accelerated failure time based mixture cure tree](https://). Jointly with W. Aselisewine and S. Pal.
-  94.  [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva.
-  95.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  96.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
-  97.  [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk](https://arxiv.org/abs/2308.15571v1). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva.
-  98.  [A bivariate regression model with varying dispersion and correlation parameters applied to newborn data](https://). Jointly with R. Vila and R. Souza.
+  90.  [Bivariate log-symmetric regression models applied to newborn data](https://doi.org/10.3390/sym16101315). Jointly with R. Vila and R. Souza. **Symmetry**, 16, 1315, 2024. 
+  91.  [Unit-log-symmetric models: Characterization, statistical properties and their applications to analyzing an internet access data](https://doi.org/10.1007/s11135-024-01879-w). Jointly with R. Vila, N. Balakrishnan and P. Zörnig. **Quality & Quantity**, 58, 4779–4806, 2024.
+  92.   [Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data](https://arxiv.org/abs/2107.10365). Jointly with A. Dasilva, R. Vila and S. Pal. To appear in **Computational and Applied Mathematics**.
+  93.   [A semiparametric accelerated failure time based mixture cure tree](https://doi.org/10.1080/02664763.2024.2418476). Jointly with W. Aselisewine and S. Pal. To appear in **Journal of Applied Statistics**.
+  94.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk forecasting](https://doi.org/10.1002/for.3214). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva. To appear in **Journal of Forecasting**.
+#### Working Papers 
+  95.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
+  96.  [Generalized extended skew-elliptical Heckman models and their characterization](https://). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva.
+  97.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  98.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
   99.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
   100.  [A new unit-bimodal distribution based on correlated Birnbaum-Saunders random variables](https://www.arxiv.org/abs/2408.00100). Jointly with R. Vila, F. Quintino and P. Zörnig.
 #### Book Chapters
