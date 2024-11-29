@@ -100,7 +100,6 @@ As an Assistant Professor in the Institute of Mathematics and Statistics, Federa
 ## Major Research Interests
 
 -   Financial Econometrics
--   Machine Learning
 -   Statistical Learning
 -   Computational Statistics
 
