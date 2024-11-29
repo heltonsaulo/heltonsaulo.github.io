@@ -310,8 +310,8 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 11. **Shayane dos Santos Cordeiro**. M.Sc. in Statistics (2022). Title: Symmetric generalized Heckman models. Institution: University of Brasilia.
 12. **Giovanna Valadares Borges**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for income data. Institution: University of Brasilia.
 13. **Verônica Lelis Bittencourt**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for extreme events. Institution: University of Brasilia.
-14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (current). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
-15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (current). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
+14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (2024). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
+15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (2024). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
 
 ## Conference Organizing Committees
 
