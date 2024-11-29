@@ -315,6 +315,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 
 ## Conference Organizing Committees
 
+-   VII Workshop on Survival Analysis and Applications.
 -   16th Brazilian School of Regression Models, 2019.
 -   Workshop on Statistics and Probability, Satellite meeting - ICM, 2018
 -   15th Brazilian School of Regression Models, 2017.
