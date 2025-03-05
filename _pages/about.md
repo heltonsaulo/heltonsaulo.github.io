@@ -77,12 +77,14 @@ I am an Assistant Professor of Statistics at the University of Brasilia, Brazil.
 	
   <li>  <a href = "https://doi.org/10.1002/qre.3072"> Bootstrap control charts for quantiles based on log-symmetric distributions with applications to monitoring of reliability data</a>. Jointly with V. Leiva, R. A. Santos, C. Marchant and Y. Lio. <strong>Quality and Reliability Engineering International</strong>, 39, 1-24, 2023.</li> 	
 
- <li>  <a href = "https://doi.org/10.1007/s00362-023-01459-4"> Parametric quantile autoregressive moving average models with exogenous terms</a>. Jointly with V. A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. <strong>Statistical Papers</strong>, 2023.</li>
+ <li>  <a href = "https://doi.org/10.1007/s00362-023-01459-4"> Parametric quantile autoregressive moving average models with exogenous terms</a>. Jointly with V. A. Dasilva, R. Vila, J. A. Fiorucci and S. Pal. <strong>Statistical Papers</strong>, 65, 1613-1643, 2024.</li>
 
- <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 2024.</li>
+ <li>  <a href = "https://doi.org/10.1111/insr.12564"> Parametric quantile beta regression model</a>. Jointly with M. Bourguignon and  D. I. Gallardo. <strong>International Statistical Review</strong>, 1, 1-24, 2024.</li>
 
- <li>  <a href = "https://doi.org/10.1016/j.spl.2024.110032"> An upper bound and a characterization for Gini’s mean difference based on correlated random variables</a>. Jointly with R. Vila and N. Balakrishnan. <strong>Statistics & Probability Letters</strong>, 2024.</li>
+ <li>  <a href = "https://doi.org/10.1016/j.spl.2024.110032"> An upper bound and a characterization for Gini’s mean difference based on correlated random variables</a>. Jointly with R. Vila and N. Balakrishnan. <strong>Statistics & Probability Letters</strong>, 207, 110032, 2024.</li>
 
+ <li>  <a href = "https://doi.org/10.1002/for.3214"> Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk forecasting</a>. Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva. <strong>Journal of Forecasting</strong>, Journal of Forecasting, 44, 589-605, 2025.</li>
+ 
      
 </ul>
 	
