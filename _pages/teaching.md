@@ -14,7 +14,7 @@ nav_order: 5
 #### University of Brasilia
 
 2025.1 - Computational Techniques in Statistics (Graduate course)\
-2025.1 - Computational Statistics (Undergraduate course)\
+2025.1 - Computational Statistics (Undergraduate course)
 
 ## Past courses
 
