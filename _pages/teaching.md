@@ -13,13 +13,18 @@ nav_order: 5
 
 #### University of Brasilia
 
-2023.2 - Probability and Statistics - 03 (Undergraduate course)\
-2023.2 - Topics in Simulation and Modeling (Graduate course)
-
+2025.1 - Computational Techniques in Statistics (Graduate course)\
+2025.1 - Computational Statistics (Undergraduate course)\
 
 ## Past courses
 
 #### University of Brasilia
+2024.2 - Tppics in Statistics (Undergraduate course)\
+2024.2 - Statistical Quality Control (Undergraduate course)\
+2024.1 - Computational Techniques in Statistics (Graduate course)\
+2024.1 - Computational Statistics (Undergraduate course)\
+2023.2 - Probability and Statistics - 03 (Undergraduate course)\
+2023.2 - Topics in Simulation and Modeling (Graduate course)\
 2022.2 - Probability and Statistics - 03 (Undergraduate course)\
 2022.2 - Probability and Statistics - 08 (Undergraduate course)\
 2022.1 - Computational Techniques in Statistics (Graduate course)\
