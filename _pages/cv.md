@@ -23,7 +23,8 @@ Phone: +55 61 3107-3696
 
 ## Positions Held
 
--   Assistant Professor of Statistics, University of Brasilia, Brazil, March 2017 -- Onwards.
+-   Associate Professor of Statistics, University of Brasilia, Brazil, January 2025 -- Onwards.
+-   Assistant Professor of Statistics, University of Brasilia, Brazil, March 2017 -- January 2025.
 -   Affiliated Assistant Professor of Economics, Federal University of Pelotas, Brazil, February 2024 -- Onwards.
 -   Post-doctoral Fellow, University of Texas at Arlington, March 2023 -- August 2023.
 -   Post-doctoral Fellow, McMaster University, August 2019 -- February 2020
