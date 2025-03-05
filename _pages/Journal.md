@@ -109,7 +109,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 ## Working Papers 
   97.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
   98.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  99.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](https://). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
+  99.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](http://arxiv.org/abs/2408.17410). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
   100.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
   101.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
  
