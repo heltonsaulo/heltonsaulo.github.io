@@ -19,11 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor of Statistics at the University of Brasilia, Brazil. I received my Ph.D. in Economics from the Federal University of Rio Grande do Sul, Brazil. I undertook postdoctoral studies in Statistics at McMaster University, Canada, and at the University of Texas at Arlington, USA. My research interests include financial econometrics, machine learning, statistical learning and computational statistics.
+I am an Associate Professor of Statistics at the University of Brasília, Brazil. I hold a Ph.D. in Economics from the Federal University of Rio Grande do Sul, Brazil, and completed postdoctoral research in Statistics at McMaster University, Canada, and the University of Texas at Arlington, USA. My research interests include financial econometrics, statistical learning, and computational statistics.
 
-<!--I am an Assistant Professor of Statistics at the <a href = "http://www.est.unb.br/">  University of Brasilia</a>, Brazil. I received my Ph.D. in Economics from the <a href = "https://www.ufrgs.br/ppge/">  Federal University of Rio Grande do Sul</a>, Brazil. I undertook postdoctoral studies in Statistics at <a href = "https://math.mcmaster.ca/">  McMaster University</a>, Canada, under the supervision of <a href = "https://ms.mcmaster.ca/bala/">  Prof. Dr. N. Balakrishnan</a>, and at the <a href = "https://www.uta.edu/academics/schools-colleges/science/departments/mathematics">  University of Texas at Arlington</a>, USA, under the supervision of <a href = "https://www.uta.edu/academics/faculty/profile?username=pals">  Dr. S. Pal</a>. My research interests include financial econometrics, machine learning, statistical learning and computational statistics. -->
 
-<!--I serve as an Associate Editor for the Journal of Applied Statistics, Journal of Statistical Theory and Practice, and Chilean Journal of Statistics.-->
 
 
  <h3>Editorial Duties</h3>
