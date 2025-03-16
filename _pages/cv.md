@@ -212,7 +212,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   99.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](http://arxiv.org/abs/2408.17410). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
   100.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
   101.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
- #### Book Chapters
+#### Book Chapters
  102.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
  103.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
  104.  [Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
