@@ -105,12 +105,13 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   94.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk forecasting](https://doi.org/10.1002/for.3214). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva. **Journal of Forecasting**, 44, 589-605, 2025.
   95.   [A semiparametric accelerated failure time based mixture cure tree](https://doi.org/10.1080/02664763.2024.2418476). Jointly with W. Aselisewine and S. Pal. To appear in **Journal of Applied Statistics**.
   96.  [Bivariate extended skew-elliptical Heckman models: Mathematical characterization and an application in economic sciences](https://). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva. To appear in **Computational and Applied Mathematics**.
+  97.  [Moment-type estimators for a weighted exponential family](https://www.tandfonline.com/journals/lsta20). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
 ## Working Papers 
-  97.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  98.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  99.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](http://arxiv.org/abs/2408.17410). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
-  100.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
-  101.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
+  98.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
+  99.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  100.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](http://arxiv.org/abs/2408.17410). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
+  101.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
+  102.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
 ## Book Chapters
  102.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
  103.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
