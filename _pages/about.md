@@ -29,6 +29,8 @@ I am an Associate Professor of Statistics at the University of Brasília, Brazil
  <ul>	
 <li> Associate Editor, <a href = "https://www.tandfonline.com/toc/cjas20/current">  Journal of Applied Statistics</a> </li> 
 <li> Associate Editor, <a href = "https://www.springer.com/journal/42519/">  Journal of Statistical Theory and Practice</a> </li> 
+<li> Associate Editor, <a href = "https://www.tandfonline.com/journals/lsta20">  Communications in Statistics – Theory and Methods</a> </li> 
+<li> Associate Editor, <a href = "https://www.tandfonline.com/journals/lssp20">  Communications in Statistics - Simulation and Computation</a> </li> 
 <li> Associate Editor, <a href = "http://soche.cl/chjs/"> Chilean Journal of Statistics</a> </li> 
 </ul>
 
