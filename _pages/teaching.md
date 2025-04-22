@@ -15,6 +15,10 @@ nav_order: 5
 
 2025.1 - Computational Techniques in Statistics (Graduate course)\
 2025.1 - Computational Statistics (Undergraduate course)
+         Listas
+         - Lista 1 - Resolução[https://drive.google.com/file/d/1aRDyIcKUr9wDTLEh9E-MmxuKQNFaQNtF/view?usp=sharing](https://drive.google.com/file/d/1aRDyIcKUr9wDTLEh9E-MmxuKQNFaQNtF/view?usp=sharing)
+         - Lista 2 - Resolução
+         - Lista 3  
 
 ## Past courses
 
