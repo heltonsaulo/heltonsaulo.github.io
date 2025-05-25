@@ -37,6 +37,7 @@ Phone: +55 61 3107-3696
 -   Associate Editor, Journal of Statistical Theory and Practice.
 -   Associate Editor, Communications in Statistics – Theory and Methods.
 -   Associate Editor, Communications in Statistics - Simulation and Computation.
+-   Associate Editor, Communications in Statistics: Case Studies, Data Analysis and Applications.
 -   Associate Editor, Chilean Journal of Statistics.
 
 ## Education
