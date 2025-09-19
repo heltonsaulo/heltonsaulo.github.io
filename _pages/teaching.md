@@ -15,10 +15,7 @@ nav_order: 5
 
 2025.1 - Computational Techniques in Statistics (Graduate course)\
 2025.1 - Computational Statistics (Undergraduate course)\
-         Listas\
-         - **Lista 1 - Resolução:** [Clique aqui para acessar](https://drive.google.com/file/d/1aRDyIcKUr9wDTLEh9E-MmxuKQNFaQNtF/view?usp=sharing) \
-         - **Lista 2 - Resolução:** [Clique aqui para acessar](https://drive.google.com/file/d/1jRQcWsuw2apoR22PD5MHXcP0ezmT78gd/view?usp=drive_link) \
-         - **Lista 3 - Resolução:** [Clique aqui para acessar](https://drive.google.com/file/d/1ILUOEQWAgSDYQAmE8HmMccOmeI4GCUd-/view?usp=sharing) 
+
 ## Past courses
 
 #### University of Brasilia
