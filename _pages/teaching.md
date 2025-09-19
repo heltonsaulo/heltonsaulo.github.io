@@ -13,12 +13,14 @@ nav_order: 5
 
 #### University of Brasilia
 
-2025.1 - Computational Techniques in Statistics (Graduate course)\
-2025.1 - Computational Statistics (Undergraduate course)\
+2025.2 - Statistical Quality Control (Graduate course)\
+2025.2 - Topics in Statistics (Undergraduate course)\
 
 ## Past courses
 
 #### University of Brasilia
+2025.1 - Computational Techniques in Statistics (Graduate course)\
+2025.1 - Computational Statistics (Undergraduate course)\
 2024.2 - Topics in Statistics (Undergraduate course)\
 2024.2 - Statistical Quality Control (Undergraduate course)\
 2024.1 - Computational Techniques in Statistics (Graduate course)\
