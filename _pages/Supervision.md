@@ -23,5 +23,7 @@ nav_order: 5
 13. **Verônica Lelis Bittencourt**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for extreme events. Institution: University of Brasilia.
 14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (current). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
 15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (current). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
+16. **João Pedro Moreira Pupe**. M.Sc. in Statistics (Current). Title: Comparação do desempenho fora da amostra de métodos de aprendizado de máquina para previsão do PIB do Estado de Goiás. Institution: University of Brasilia.
+17. **Pedro Vianna Alves da Silva**. M.Sc. in Statistics (Current). Title: On a new extreme value ARMA model: characterization, estimation, and application to extreme air pollution events. Institution: University of Brasilia.
 
 
