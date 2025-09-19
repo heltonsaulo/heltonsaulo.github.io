@@ -104,28 +104,33 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   93.   [A new unit-bimodal distribution based on correlated Birnbaum-Saunders random variables](https://doi.org/10.1007/s40314-024-03045-2). Jointly with R. Vila, F. Quintino and P. Zörnig. **Computational and Applied Mathematics**, 44, 83, 2025.
   94.   [Parametric quantile autoregressive conditional duration models with application to intraday value-at-risk forecasting](https://doi.org/10.1002/for.3214). Jointly with S. Pal, R,. Souza, R. Vila and A. Dasilva. **Journal of Forecasting**, 44, 589-605, 2025.
   95.   [A semiparametric accelerated failure time based mixture cure tree](https://doi.org/10.1080/02664763.2024.2418476). Jointly with W. Aselisewine and S. Pal. **Journal of Applied Statistics**, 52, 1177-1194, 2025.
-  96.  [Bivariate extended skew-elliptical Heckman models: Mathematical characterization and an application in economic sciences](https://). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva. **Computational and Applied Mathematics**, 44, 236, 2025.
-  97.  [Moment-type estimators for a weighted exponential family](https://www.tandfonline.com/journals/lsta20). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
-  98.  [Closed-form solutions for parameter estimation in exponential families based on maximum a posteriori equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano. To appear in **Chilean Journal of Statistics**.
+  96.  [Bivariate extended skew-elliptical Heckman models: Mathematical characterization and an application in economic sciences](https://doi.org/10.1007/s40314-025-03169-z). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva. **Computational and Applied Mathematics**, 44, 236, 2025.
+  97.  [Closed-form solutions for parameter estimation in exponential families based on maximum a posteriori equations](https://soche.cl/chjs/volumes/16/ChJS-16-01-02.pdf). Jointly with R. Vila and E. Nakano. **Chilean Journal of Statistics**, 16, 22–35, 2025.
+  98.  [Multiscale Stochastic Models for Bitcoin: Fractional Brownian Motion and Duration-Based Approaches](https://doi.org/10.3390/fintech4030051). Jointly with A. Carvalho, F.Quintino, H. Saulo, L. C. S. M. Ozelim, T. A. Fonseca, and N. Rathie. 4, 51, 2025.
+  99.  [A family of multivariate extended skew-G-elliptical distributions](https://doi.org/10.1214/25-BJPS634). Jointly with R. Vila, L. Santos, J. Monterios and F. Quintino. To appear in **Brazilian Journal of Probability and Statistics**.
+  100.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
+  101.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
 ## Working Papers 
-  99.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  100.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  101.  [Family of multivariate extended skew-elliptical distributions: Probabilistic properties and applications](http://arxiv.org/abs/2408.17410). Jointly with R. Vila, L. Santos, J. Monterios and F Quintino.
-  102.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
-  103.  [General Heckman type models for two-dimensional asymmetric distributions](http://). Jointly with R. Vila, C. Castro, V. Leiva and C. Marchant.
-  104.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
-  105.  [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](http://arxiv.org/abs/2504.04518). Jointly with R. Vila.
-  106. [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](http://arxiv.org/abs/2504.13806). Jointly with R. Vila.
-  107. [The mth Gini index estimator: Unbiasedness for gamma populations](http://arxiv.org/abs/2504.19381). Jointly with R. Vila.
-  108. [Unbiased estimation in new Gini index extensions under gamma distributions](http://arxiv.org/abs/2506.00666). Jointly with R. Vila.
-  109. [An unbiased estimator of a novel extended Gini index for gamma distributed populations](http://arxiv.org/abs/2505.01659). Jointly with R. Vila.
-  110.  [Biases in Theil and Atkinson index estimation for gamma mixture populations](http://arxiv.org/abs/2506.22168). Jointly with R. Vila and J. Assis.
-  111.  [Stochastic modeling of bitcoin prices: Intraday and daily analysis with predictions](http://). Jointly with A. Carvalho, F.Quintino, H. Saulo, L. C. S. M. Ozelim, T. A. Fonseca, and N. Rathie
+  102.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
+  103.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  104.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
+  105.  [General Heckman type models for two-dimensional asymmetric distributions](http://). Jointly with R. Vila, C. Castro, V. Leiva and C. Marchant.
+  106.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
+  107.  [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](http://arxiv.org/abs/2504.13806). Jointly with R. Vila.
+  108.  [The mth Gini index estimator: Unbiasedness for gamma populations](http://arxiv.org/abs/2504.19381). Jointly with R. Vila.
+  109.  [An unbiased estimator of a novel extended Gini index for gamma distributed populations](http://arxiv.org/abs/2505.01659). Jointly with R. Vila.
+  110.  [Unbiased estimation in new Gini index extensions under gamma distributions](http://arxiv.org/abs/2506.00666). Jointly with R. Vila.
+  111. [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](http://arxiv.org/abs/2504.04518). Jointly with R. Vila.
+  112. [Novel measures and estimators of income inequality](http://arxiv.org/abs/2508.02965). Jointly with R. Vila.
+  113. [Biases in Theil and Atkinson index estimation for gamma mixture populations](http://arxiv.org/abs/2506.22168). Jointly with R. Vila and J. Assis.
+  114. [A unified method for generating closed-form point estimators for exponential families: An example with the beta distribution applied to proportions of land used for farming](https://arxiv.org/abs/2508.12169). Jointly with R. Vila.
+  115. [Closed-form parameter estimation for the bivariate gamma distribution: New approaches](https://arxiv.org/abs/2509.10794). Jointly with R. Vila.
+  116. [Constructing new probability distributions on the unit interval](https://arxiv.org/abs/2508.01154). Jointly with R. Vila, P. Matos and S. Dutta.
 ## Book Chapters
- 112.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
- 113.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
- 114.  [Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
- 115.  [Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
+ 117.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
+ 118.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
+ 119.  [Statistical quality control and reliability analysis using the Birnbaum-Saunders distribution with industrial applications](https://link.springer.com/chapter/10.1007/978-3-030-20709-0_2). Jointly with V. Leiva, C. Marchant, F. Ruggeri, H. Saulo. In **Statistical Quality Technologies: Theory and Practice** (Eds. Y. Lio, H. Keung, T. Ng, T-R. Tsai and D-G. Chen), Springer, 2019.
+ 120.  [Multivariate methods to monitor the risk of critical episodes of environmental contamination using an asymmetric distribution with data of Santiago, Chile](https://doi.org/10.1016/B978-0-323-85698-0.00024-1). Jointly with C. Marchant, V. Leiva and R. Vila. In **Risk, Reliability and Sustainable Remediation in the Field of Civil and Environmental Engineering** (Eds. T. Roshni, P. Samui, D. T. Bui, D. Kim, R. Khatibi), Elsevier, 2022.
  
  
 
