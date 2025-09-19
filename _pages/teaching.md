@@ -13,8 +13,8 @@ nav_order: 5
 
 #### University of Brasilia
 
-2025.2 - Statistical Quality Control (Graduate course)\
-2025.2 - Topics in Statistics (Undergraduate course)\
+2025.2 - Statistical Quality Control (Undergraduate course)\
+2025.2 - Topics in Statistics (Graduate course)
 
 ## Past courses
 
