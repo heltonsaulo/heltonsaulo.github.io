@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /journal/
+permalink: 
 title: publi
 description: # Materials for courses you taught. Replace this text with your description.
 nav: false
