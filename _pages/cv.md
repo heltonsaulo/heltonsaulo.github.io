@@ -400,51 +400,52 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 
 ## Undergraduate Students (Final Projects / Monographs)
 
-1. **Ana Clara Barbosa de França**. B.Sc. in Statistics (2025).  
-   Title: *Comparative Analysis of Statistical Models for IPCA Forecasting*.  
-   Institution: University of Brasília.
-2. **João Victor de Oliveira Nogueira**. B.Sc. in Statistics (2025).  
-   Title: *Forecasting the National Consumer Price Index: Traditional Time Series and Machine Learning Approaches*.  
-   Institution: University of Brasília.
-3. **Mateus Barros Kilson**. B.Sc. in Statistics (2024).  
-   Title: *Bagging in Autoregressive Conditional Duration Models*.  
-   Institution: University of Brasília.
-4. **Gabriel Tormin Alves**. B.Sc. in Statistics (2022).  
-   Title: *Quantile Regression in the Analysis of COVID-19 Fatality*.  
-   Institution: University of Brasília.
-5. **Vitor Macêdo Rocha**. B.Sc. in Statistics (2021).  
-   Title: *Bootstrap Control Charts for Skew Birnbaum-Saunders Percentiles*.  
-   Institution: University of Brasília.
-6. **Isabela Paranhos Pinto**. B.Sc. in Statistics (2018).  
+1. **Rodrigo Alves de Oliveira**. B.Sc. in Statistics (2014).  
+   Title: *Estimation and Forecasting of Automobile Flow Series on the Caldas Novas–Morrinhos Highway*.  
+   Institution: Federal University of Goiás.
+2. **Welder Batista de Oliveira**. B.Sc. in Statistics (2014).  
+   Title: *The Impact of Data Imprecision on Decision-Making for Optimal Location Selection*.  
+   Institution: Federal University of Goiás.
+3. **Navarro Mendes Santos Rosa**. B.Sc. in Statistics (2015).  
+   Title: *Birnbaum-Saunders Distribution Based on the Logistic Kernel and Some Inference Problems*.  
+   Institution: Federal University of Goiás.
+4. **Karollyna Barbosa Bie**. B.Sc. in Statistics (2015).  
+   Title: *Income Distributions and Their Applications in the Study of Income Inequality in Brazil*.  
+   Institution: Federal University of Goiás.
+5. **Nathalia Rodrigues Damasceno**. B.Sc. in Statistics (2015).  
+   Title: *Cox Regression Models Applied to School Dropout Data*.  
+   Institution: Federal University of Goiás.
+6. **Cristiely Gomes Pires**. B.Sc. in Statistics (2015).  
+   Title: *Air Quality Monitoring Using Attribute Control Charts Based on the Birnbaum-Saunders Distribution*.  
+   Institution: Federal University of Goiás.
+7. **Isabela Paranhos Pinto**. B.Sc. in Statistics (2018).  
    Title: *Analysis and Modeling of Work Absence Data Due to Health Problems Among Federal Public Servants*.  
    Institution: University of Brasília.
-7. **Rafael Amorim dos Santos**. B.Sc. in Statistics (2018).  
+8. **Rafael Amorim dos Santos**. B.Sc. in Statistics (2018).  
    Title: *Bootstrap Control Charts for Log-Symmetric Percentiles*.  
    Institution: University of Brasília.
-8. **Renata Villas Boas Dias**. B.Sc. in Statistics (2018).  
+9. **Renata Villas Boas Dias**. B.Sc. in Statistics (2018).  
    Title: *Modeling Based on the Birnbaum-Saunders Distribution*.  
    Institution: University of Brasília.
-9. **Eduardo Barreto Sulz**. B.Sc. in Statistics (2018).  
-   Title: *A Truncated Version of the Generalized Birnbaum-Saunders Distribution Applied to Risk Analysis*.  
-   Institution: University of Brasília.
-10. **Navarro Mendes Santos Rosa**. B.Sc. in Statistics (2015).  
-    Title: *Birnbaum-Saunders Distribution Based on the Logistic Kernel and Some Inference Problems*.  
-    Institution: Federal University of Goias.  
-11. **Karollyna Barbosa Bie**. B.Sc. in Statistics (2015).  
-    Title: *Income Distributions and Their Applications in the Study of Income Inequality in Brazil*.  
-    Institution: Federal University of Goias.
-12. **Nathalia Rodrigues Damasceno**. B.Sc. in Statistics (2015).  
-    Title: *Cox Regression Models Applied to School Dropout Data*.  
-    Institution: Federal University of Goias.  
-13. **Cristiely Gomes Pires**. B.Sc. in Statistics (2015).  
-    Title: *Air Quality Monitoring Using Attribute Control Charts Based on the Birnbaum-Saunders Distribution*.  
-    Institution: Federal University of Goias.
-14. **Rodrigo Alves de Oliveira**. B.Sc. in Statistics (2014).  
-    Title: *Estimation and Forecasting of Automobile Flow Series on the Caldas Novas–Morrinhos Highway*.  
-    Institution: Federal University of Goias.
-15. **Welder Batista de Oliveira**. B.Sc. in Statistics (2014).  
-    Title: *The Impact of Data Imprecision on Decision-Making for Optimal Location Selection*.  
-    Institution: Federal University of Goias.
+10. **Eduardo Barreto Sulz**. B.Sc. in Statistics (2018).  
+    Title: *A Truncated Version of the Generalized Birnbaum-Saunders Distribution Applied to Risk Analysis*.  
+    Institution: University of Brasília.
+11. **Vitor Macêdo Rocha**. B.Sc. in Statistics (2021).  
+    Title: *Bootstrap Control Charts for Skew Birnbaum-Saunders Percentiles*.  
+    Institution: University of Brasília.
+12. **Gabriel Tormin Alves**. B.Sc. in Statistics (2022).  
+    Title: *Quantile Regression in the Analysis of COVID-19 Fatality*.  
+    Institution: University of Brasília.
+13. **Mateus Barros Kilson**. B.Sc. in Statistics (2024).  
+    Title: *Bagging in Autoregressive Conditional Duration Models*.  
+    Institution: University of Brasília.
+14. **Ana Clara Barbosa de França**. B.Sc. in Statistics (2025).  
+    Title: *Comparative Analysis of Statistical Models for IPCA Forecasting*.  
+    Institution: University of Brasília.
+15. **João Victor de Oliveira Nogueira**. B.Sc. in Statistics (2025).  
+    Title: *Forecasting the National Consumer Price Index: Traditional Time Series and Machine Learning Approaches*.  
+    Institution: University of Brasília.
+
 
 ## Conference Organizing Committees
 
