@@ -18,6 +18,10 @@ nav_order: 5
 
 ## Past courses
 
+#### Federal University of Pelotas
+2025.1 - Statistics (Graduate course)\
+2024.1 -  Statistics (Graduate course)\
+
 #### University of Brasilia
 2025.1 - Computational Techniques in Statistics (Graduate course)\
 2025.1 - Computational Statistics (Undergraduate course)\
