@@ -7,7 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-## Graduate Students
+
+## Postdoctoral Supervision
+
+1. **Mario Ernesto Piscoya Diaz** (2025).  
+   Postdoctoral Supervision.  
+   Institution: University of Brasília.  
+
+
+## Graduate Supervision
 
 1. **Mário Fernando de Sousa**. M.Sc. in Economics (2016).  
    Title: *Two Essays on Birnbaum-Saunders Regression Models for Censored Data*.  
@@ -74,7 +82,7 @@ nav_order: 5
     Institution: University of Brasília.
 
 
-## Undergraduate Students (Final Projects / Monographs)
+## Undergraduate Supervision (Final Projects / Monographs)
 
 1. **Ana Clara Barbosa de França**. B.Sc. in Statistics (2025).  
    Title: *Comparative Analysis of Statistical Models for IPCA Forecasting*.  
@@ -122,4 +130,8 @@ nav_order: 5
     Title: *The Impact of Data Imprecision on Decision-Making for Optimal Location Selection*.  
     Institution: Federal University of Goias.
 
- 
+## Scientific Initiation Supervision (Undergraduate Research)
+
+1. **Khézia Ribeiro de Moura**. Scientific Initiation in Statistics (2021).  
+   Title: *Quantile Mixture Models with Application to Vaccine Antibody Concentration Data*.  
+   Institution: University of Brasília.  
