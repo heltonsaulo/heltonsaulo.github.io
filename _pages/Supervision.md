@@ -105,23 +105,21 @@ nav_order: 5
    Institution: University of Brasília.
 10. **Navarro Mendes Santos Rosa**. B.Sc. in Statistics (2015).  
     Title: *Birnbaum-Saunders Distribution Based on the Logistic Kernel and Some Inference Problems*.  
-    Institution: Federal University of Goiás.  
-    Funding: National Council for Scientific and Technological Development (CNPq).
+    Institution: Federal University of Goias.  
 11. **Karollyna Barbosa Bie**. B.Sc. in Statistics (2015).  
     Title: *Income Distributions and Their Applications in the Study of Income Inequality in Brazil*.  
-    Institution: Federal University of Goiás.
+    Institution: Federal University of Goias.
 12. **Nathalia Rodrigues Damasceno**. B.Sc. in Statistics (2015).  
     Title: *Cox Regression Models Applied to School Dropout Data*.  
-    Institution: Federal University of Goiás.  
-    Funding: National Council for Scientific and Technological Development (CNPq).
+    Institution: Federal University of Goias.  
 13. **Cristiely Gomes Pires**. B.Sc. in Statistics (2015).  
     Title: *Air Quality Monitoring Using Attribute Control Charts Based on the Birnbaum-Saunders Distribution*.  
-    Institution: Federal University of Goiás.
+    Institution: Federal University of Goias.
 14. **Rodrigo Alves de Oliveira**. B.Sc. in Statistics (2014).  
     Title: *Estimation and Forecasting of Automobile Flow Series on the Caldas Novas–Morrinhos Highway*.  
-    Institution: Federal University of Goiás.
+    Institution: Federal University of Goias.
 15. **Welder Batista de Oliveira**. B.Sc. in Statistics (2014).  
     Title: *The Impact of Data Imprecision on Decision-Making for Optimal Location Selection*.  
-    Institution: Federal University of Goiás.
+    Institution: Federal University of Goias.
 
  
