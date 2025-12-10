@@ -333,6 +333,12 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 49. Alexandria Engineering Journal
 50. Journal of the Royal Statistical Society: Series A
 
+## Postdoctoral Supervision
+
+1. **Mario Ernesto Piscoya Diaz** (2025).  
+   Postdoctoral Supervision.  
+   Institution: University of Brasília.  
+   
 ## Graduate Students
 
 1. **Mário Fernando de Sousa**. M.Sc. in Economics (2016).  
@@ -447,6 +453,12 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 15. **João Victor de Oliveira Nogueira**. B.Sc. in Statistics (2025).  
     Title: *Forecasting the National Consumer Price Index: Traditional Time Series and Machine Learning Approaches*.  
     Institution: University of Brasília.
+
+## Scientific Initiation (Undergraduate Research)
+
+1. **Khézia Ribeiro de Moura**. Scientific Initiation in Statistics (2021).  
+   Title: *Quantile Mixture Models with Application to Vaccine Antibody Concentration Data*.  
+   Institution: University of Brasília.  
 
 
 ## Conference Organizing Committees
