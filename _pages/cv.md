@@ -339,7 +339,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
    Postdoctoral Supervision.  
    Institution: University of Brasília.  
    
-## Graduate Students
+## Graduate Supervision
 
 1. **Mário Fernando de Sousa**. M.Sc. in Economics (2016).  
    Title: *Two Essays on Birnbaum-Saunders Regression Models for Censored Data*.  
@@ -406,7 +406,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
     Institution: University of Brasília.
 
 
-## Undergraduate Students (Final Projects / Monographs)
+## Undergraduate Supervision (Final Projects / Monographs)
 
 1. **Rodrigo Alves de Oliveira**. B.Sc. in Statistics (2014).  
    Title: *Estimation and Forecasting of Automobile Flow Series on the Caldas Novas–Morrinhos Highway*.  
@@ -454,7 +454,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
     Title: *Forecasting the National Consumer Price Index: Traditional Time Series and Machine Learning Approaches*.  
     Institution: University of Brasília.
 
-## Scientific Initiation (Undergraduate Research)
+## Scientific Initiation Supervision (Undergraduate Research)
 
 1. **Khézia Ribeiro de Moura**. Scientific Initiation in Statistics (2021).  
    Title: *Quantile Mixture Models with Application to Vaccine Antibody Concentration Data*.  
