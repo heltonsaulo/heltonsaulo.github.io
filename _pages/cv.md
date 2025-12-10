@@ -214,7 +214,8 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   100.  [Bias in Gini coefficient estimation for gamma mixture populations](https://doi.org/10.1007/s00362-025-01768-w). Jointly with R. Vila. **Statistical Papers**, 66, 146, 2025.
   101.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
   102.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
-  103.  [The mth Gini index estimator: Unbiasedness for gamma populations](10.1007/s10888-025-09715-3). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
+  103.  [The mth Gini index estimator: Unbiasedness for gamma populations](https://link.springer.com/journal/10888/articles). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
+  
 #### Working Papers 
   104.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
   105.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
@@ -229,6 +230,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   114. [A unified method for generating closed-form point estimators for exponential families: An example with the beta distribution applied to proportions of land used for farming](https://arxiv.org/abs/2508.12169). Jointly with R. Vila.
   115. [Closed-form parameter estimation for the bivariate gamma distribution: New approaches](https://arxiv.org/abs/2509.10794). Jointly with R. Vila.
   116. [Constructing new probability distributions on the unit interval](https://arxiv.org/abs/2508.01154). Jointly with R. Vila, P. Matos and S. Dutta.
+  
 #### Book Chapters
  117.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
  118.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
@@ -468,5 +470,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
 -   Statistical/Mathematical/Programing Languages: C, Ox, R, Python
 -   Typesetting: LaTeX, R Markdown, Quarto
 -   Operating System: Debian-based Linux distributions.
+
+
 
 
