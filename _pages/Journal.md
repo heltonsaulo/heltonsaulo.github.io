@@ -106,18 +106,18 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   95.   [A semiparametric accelerated failure time based mixture cure tree](https://doi.org/10.1080/02664763.2024.2418476). Jointly with W. Aselisewine and S. Pal. **Journal of Applied Statistics**, 52, 1177-1194, 2025.
   96.  [Bivariate extended skew-elliptical Heckman models: Mathematical characterization and an application in economic sciences](https://doi.org/10.1007/s40314-025-03169-z). Jointly with R. Vila, C. Marchant, C. Castro and V. Leiva. **Computational and Applied Mathematics**, 44, 236, 2025.
   97.  [Closed-form solutions for parameter estimation in exponential families based on maximum a posteriori equations](https://soche.cl/chjs/volumes/16/ChJS-16-01-02.pdf). Jointly with R. Vila and E. Nakano. **Chilean Journal of Statistics**, 16, 22–35, 2025.
-  98.  [Multiscale Stochastic Models for Bitcoin: Fractional Brownian Motion and Duration-Based Approaches](https://doi.org/10.3390/fintech4030051). Jointly with A. Carvalho, F.Quintino, H. Saulo, L. C. S. M. Ozelim, T. A. Fonseca, and N. Rathie. 4, 51, 2025.
-  99.  [A family of multivariate extended skew-G-elliptical distributions](https://doi.org/10.1214/25-BJPS634). Jointly with R. Vila, L. Santos, J. Monterios and F. Quintino. To appear in **Brazilian Journal of Probability and Statistics**.
-  100.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
-  101.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
+  98.  [Multiscale Stochastic Models for Bitcoin: Fractional Brownian Motion and Duration-Based Approaches](https://doi.org/10.3390/fintech4030051). Jointly with A. Carvalho, F.Quintino, H. Saulo, L. C. S. M. Ozelim, T. A. Fonseca, and N. Rathie. **FinTech**, 4, 51, 2025.
+  99.  [A family of multivariate extended skew-G-elliptical distributions](https://doi.org/10.1214/25-BJPS634). Jointly with R. Vila, L. Santos, J. Monterios and F. Quintino. **Brazilian Journal of Probability and Statistics**, 39, 248-271, 2025.
+  100.  [Bias in Gini coefficient estimation for gamma mixture populations](https://doi.org/10.1007/s00362-025-01768-w). Jointly with R. Vila. **Statistical Papers**, 66, 146, 2025.
+  101.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
+  102.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
+  103.  [The mth Gini index estimator: Unbiasedness for gamma populations](10.1007/s10888-025-09715-3). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
 ## Working Papers 
-  102.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  103.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
-  104.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
-  105.  [General Heckman type models for two-dimensional asymmetric distributions](http://). Jointly with R. Vila, C. Castro, V. Leiva and C. Marchant.
-  106.  [Bias in Gini coefficient estimation for gamma mixture populations](http://arxiv.org/abs/2503.00690). Jointly with R. Vila.
-  107.  [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](http://arxiv.org/abs/2504.13806). Jointly with R. Vila.
-  108.  [The mth Gini index estimator: Unbiasedness for gamma populations](http://arxiv.org/abs/2504.19381). Jointly with R. Vila.
+  104.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
+  105.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.
+  106.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant.
+  107.  [General Heckman type models for two-dimensional asymmetric distributions](http://). Jointly with R. Vila, C. Castro, V. Leiva and C. Marchant.
+  108.  [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](http://arxiv.org/abs/2504.13806). Jointly with R. Vila.
   109.  [An unbiased estimator of a novel extended Gini index for gamma distributed populations](http://arxiv.org/abs/2505.01659). Jointly with R. Vila.
   110.  [Unbiased estimation in new Gini index extensions under gamma distributions](http://arxiv.org/abs/2506.00666). Jointly with R. Vila.
   111. [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](http://arxiv.org/abs/2504.04518). Jointly with R. Vila.
