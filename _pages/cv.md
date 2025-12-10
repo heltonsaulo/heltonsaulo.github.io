@@ -79,7 +79,11 @@ Phone: +55 61 3107-3696
 
 ## Teaching Experience
 
-As an Assistant Professor in the Department of Statistics, University of Brasilia, Brazil, 2017-present:
+#### Federal University of Pelotas, Brazil, 2024-present:
+
+-   Statistics (graduate)
+
+#### University of Brasilia, Brazil, 2017-present:
 
 -   Computational Econometrics (graduate);
 -   Computational Modeling (graduate);
@@ -92,7 +96,7 @@ As an Assistant Professor in the Department of Statistics, University of Brasili
 -   Statistical Quality Control (undergraduate);
 -   Applied Statistics (undergraduate).
 
-As an Assistant Professor in the Institute of Mathematics and Statistics, Federal University of Goias, Brazil, 2014-2017:
+#### Federal University of Goias, Brazil, 2014-2017:
 
 -   Computational Statistics II (graduate);
 -   Computational Statistics II (undergraduate);
