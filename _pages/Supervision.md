@@ -21,9 +21,14 @@ nav_order: 5
 11. **Shayane dos Santos Cordeiro**. M.Sc. in Statistics (2022). Title: Symmetric generalized Heckman models. Institution: University of Brasilia.
 12. **Giovanna Valadares Borges**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for income data. Institution: University of Brasilia.
 13. **Verônica Lelis Bittencourt**. M.Sc. in Statistics (2022). Title: Parametric quantile regression for extreme events. Institution: University of Brasilia.
-14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (current). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
-15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (current). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
-16. **João Pedro Moreira Pupe**. M.Sc. in Statistics (Current). Title: Comparação do desempenho fora da amostra de métodos de aprendizado de máquina para previsão do PIB do Estado de Goiás. Institution: University of Brasilia.
-17. **Pedro Vianna Alves da Silva**. M.Sc. in Statistics (Current). Title: On a new extreme value ARMA model: characterization, estimation, and application to extreme air pollution events. Institution: University of Brasilia.
+14. **João Victor Monteiros de Andrade** (co-supervisor). M.Sc. in Statistics (2025). Title: Family of multivariate distributions for modeling data with positive support: Properties, regression and applications. Institution: University of Brasilia.
+15. **Leonardo Santos** (co-supervisor). M.Sc. in Statistics (2025). Title: Multivariate asymmetric distributions on the unit hypercube: Properties, regression and applications. Institution: University of Brasilia.
+16. **João Pedro Moreira Pupe**. M.Sc. in Statistics (2025). Title: State GDP Forecasting: New Competitors versus Traditional Time Series Models. Institution: University of Brasilia.
+17. **Junio Cesar dos Santos Melo** (co-supervisor). M.Sc. in Statistics (Current). Title: Extended unit-log-symmetric regression models. Institution: University of Brasilia.
+18. **Guilherme Bezerra Pujades Magalhaes** (co-supervisor). M.Sc. in Statistics (Current). Title: Price duration mdodels. Institution: University of Brasilia.
+19. **Thalis Caesar Alonso Venturini** (co-supervisor). M.Sc. in Statistics (Current). Title: Simple analytical expressions for the bias of some extended Gini estimators under gamma mixture populations. Institution: University of Brasilia.
+20. **Pedro Vianna Alves da Silva**. M.Sc. in Statistics (Current). Title: On a new extreme value ARMA model: characterization, estimation, and application to extreme air pollution events. Institution: University of Brasilia.
+21. **Tailine Juliana dos Santos Nonato**. M.Sc. in Statistics (Current). Title: Length-biased Birnaum-Saunders regression models. Institution: University of Brasilia.
 
 
+ 
