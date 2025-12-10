@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+## Graduate Students
 
 1. **Mário Fernando de Sousa**. M.Sc. in Economics  (2016). Title: Two essays on Birnbaum-Saunders regression models for censored data. Institution: Federal University of Goias.
 2. **Leandro Valerio Silva**. M.Sc. in Economics  (2017). Title: Control charts for monitoring tax renenue. Institution: Federal University of Goias.
