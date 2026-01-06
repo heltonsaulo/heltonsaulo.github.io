@@ -112,7 +112,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   101.  [An unbiased estimator of a novel extended mth Gini index for gamma distributed populations](https://doi.org/10.1016/j.cam.2025.117320). Jointly with R. Vila. **Journal of Computational and Applied Mathematics**, 482, 117320, 2026.
   102.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
   103.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
-  104.  [The mth Gini index estimator: Unbiasedness for gamma populations](10.1007/s10888-025-09715-3). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
+  104.  [The mth Gini index estimator: Unbiasedness for gamma populations](http://). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
   105.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
   106.  [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](http://arxiv.org/abs/2504.04518). Jointly with R. Vila. To appear in **Mathematical Methods of Statistics**.
 ## Working Papers 
