@@ -112,21 +112,37 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   101.  [An unbiased estimator of a novel extended mth Gini index for gamma distributed populations](https://doi.org/10.1016/j.cam.2025.117320). Jointly with R. Vila. **Journal of Computational and Applied Mathematics**, 482, 117320, 2026.
   102.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. To appear in **Communications in Statistics – Theory and Methods**.
   103.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
-  104.  [The mth Gini index estimator: Unbiasedness for gamma populations](http://). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
-  105.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
+  104.  [The mth Gini index estimator: Unbiasedness for gamma populations](https://doi.org/10.1007/s10888-025-09715-3). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
+  105.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://doi.org/10.1080/02664763.2026.2616862). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
   106.  [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](http://arxiv.org/abs/2504.04518). Jointly with R. Vila. To appear in **Mathematical Methods of Statistics**.
+  107.  [On the bias of the Hoover index estimator: Results for the gamma distribution](https://link.springer.com/journal/41237). Jointly with R. Vila. To appear in **Behaviormetrika**.
+
+
 ## Working Papers 
-  107.  [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano.
-  108.  [Bivariate autoregressive conditional models: A new method for jointly modeling duration and number of transactions of irregularly spaced financial data](https://). Jointly with S. Pal and R. Vila.   
-  109.  [General Heckman type models for two-dimensional asymmetric distributions](http://). Jointly with R. Vila, C. Castro, V. Leiva and C. Marchant.
-  110.  [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](http://arxiv.org/abs/2504.13806). Jointly with R. Vila.
-  111.  [Unbiased estimation in new Gini index extensions under gamma distributions](http://arxiv.org/abs/2506.00666). Jointly with R. Vila.
-  112. [Novel measures and estimators of income inequality](http://arxiv.org/abs/2508.02965). Jointly with R. Vila.
-  113. [Biases in Theil and Atkinson index estimation for gamma mixture populations](http://arxiv.org/abs/2506.22168). Jointly with R. Vila and J. Assis.
-  114. [A unified method for generating closed-form point estimators for exponential families: An example with the beta distribution applied to proportions of land used for farming](https://arxiv.org/abs/2508.12169). Jointly with R. Vila.
-  115. [Closed-form parameter estimation for the bivariate gamma distribution: New approaches](https://arxiv.org/abs/2509.10794). Jointly with R. Vila.
-  116. [Constructing new probability distributions on the unit interval](https://arxiv.org/abs/2508.01154). Jointly with R. Vila, P. Matos and S. Dutta.
-  117. [On the bias of the Hoover index estimator: Results for the gamma distribution](http://). Jointly with R. Vila.
+## Working Papers
+
+108. **[Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509)**. Jointly with R. Vila. Under review for *Metrika*.
+
+109. **[Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](https://arxiv.org/abs/2504.13806)**. Jointly with R. Vila. Submitted to *Communications in Statistics – Theory and Methods*.
+
+110. **[Unbiased estimation in new Gini index extensions under gamma distributions](https://arxiv.org/abs/2506.00666)**. Jointly with R. Vila. Submitted to *Sankhya A*.
+
+111. **[Two Tunable Gini-Type Measures with U-Statistic Estimation: Theory, Simulation, and an Empirical Application to GDP per Capita in the Americas](http://)**. Jointly with R. Vila. Under review for *Social Choice and Welfare*.
+
+112. **[Novel measures and estimators of income inequality](https://arxiv.org/abs/2508.02965)**. Jointly with R. Vila.
+
+113. **[Biases in Theil and Atkinson index estimation for gamma mixture populations](https://arxiv.org/abs/2506.22168)**. Jointly with R. Vila and J. Assis. Submitted to *Mathematics and Computers in Simulation*.
+
+114. **[A unified method for generating closed-form point estimators for exponential families: An example with the beta distribution applied to proportions of land used for farming](https://arxiv.org/abs/2508.12169)**. Jointly with R. Vila. Under review for *Australian & New Zealand Journal of Statistics*.
+
+115. **[Closed-form parameter estimation for the bivariate gamma distribution: New approaches](https://arxiv.org/abs/2509.10794)**. Jointly with R. Vila.
+
+116. **[Constructing new probability distributions on the unit interval](https://arxiv.org/abs/2508.01154)**. Jointly with R. Vila, P. Matos and S. Dutta.
+
+117. **[On the bias of the Hoover index estimator: Results for the gamma distribution](http://)**. Jointly with R. Vila.
+
+
+
 ## Book Chapters
   118.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
   119.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
