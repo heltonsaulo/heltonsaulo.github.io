@@ -71,14 +71,17 @@ nav_order: 5
 18. **Guilherme Bezerra Pujades Magalhaes** (co-supervisor). M.Sc. in Statistics (Current).  
     Title: *Price Duration Models*.  
     Institution: University of Brasília.
-19. **Thalis Caesar Alonso Venturini** (co-supervisor). M.Sc. in Statistics (Current).  
-    Title: *Simple Analytical Expressions for the Bias of Some Extended Gini Estimators under Gamma Mixture Populations*.  
-    Institution: University of Brasília.
-20. **Pedro Vianna Alves da Silva**. M.Sc. in Statistics (Current).  
+19. **Pedro Vianna Alves da Silva**. M.Sc. in Statistics (Current).  
     Title: *On a New Extreme Value ARMA Model: Characterization, Estimation, and Application to Extreme Air Pollution Events*.  
     Institution: University of Brasília.
-21. **Tailine Juliana dos Santos Nonato**. M.Sc. in Statistics (Current).  
+20. **Tailine Juliana dos Santos Nonato**. M.Sc. in Statistics (Current).  
     Title: *Length-Biased Birnbaum-Saunders Regression Models*.  
+    Institution: University of Brasília.
+21. **Julia Garcia Ribeiro**. M.Sc. in Statistics (Current).  
+    Title: *A quantile extreme-value Birnbaum-Saunders autoregressive moving average model for time series of extreme events*.  
+    Institution: University of Brasília.
+22. **Guilherme Braga Pinto**. M.Sc. in Statistics (Current).  
+    Title: *On duration models*.  
     Institution: University of Brasília.
 
 
