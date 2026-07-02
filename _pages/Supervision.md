@@ -75,13 +75,13 @@ nav_order: 5
     Title: *On a New Extreme Value ARMA Model: Characterization, Estimation, and Application to Extreme Air Pollution Events*.  
     Institution: University of Brasília.
 20. **Tailine Juliana dos Santos Nonato**. M.Sc. in Statistics (Current).  
-    Title: *Length-Biased Birnbaum-Saunders Regression Models*.  
+    Title: *A Length-Biased Birnbaum-Saunders Regression Models*.  
     Institution: University of Brasília.
 21. **Julia Garcia Ribeiro**. M.Sc. in Statistics (Current).  
-    Title: *A quantile extreme-value Birnbaum-Saunders autoregressive moving average model for time series of extreme events*.  
+    Title: *A Quantile Extreme-Value Birnbaum-Saunders autoregressive moving average model for time series of extreme events*.  
     Institution: University of Brasília.
 22. **Guilherme Braga Pinto**. M.Sc. in Statistics (Current).  
-    Title: *On duration models*.  
+    Title: *On Duration Models*.  
     Institution: University of Brasília.
 
 
