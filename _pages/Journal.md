@@ -112,11 +112,14 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   101.  [An unbiased estimator of a novel extended mth Gini index for gamma distributed populations](https://doi.org/10.1016/j.cam.2025.117320). Jointly with R. Vila. **Journal of Computational and Applied Mathematics**, 482, 117320, 2026.
   102.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. **Communications in Statistics – Theory and Methods**, 55, 37-252, 2026.
   103.  [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](https://doi.org/10.3103/S1066530726700122). Jointly with R. Vila. **Mathematical Methods of Statistics**, 35, 185-195, 2026.
-  104.  [Association between moral distress and burnout syndrome at a palliative care unit in Federal District – Brazil(https://apm.amegroups.org/article/view/153971/html). Jointly with A. M. P. Job, S. R. A. Mendes Filho and A. N. C. Santana. **Annals of Palliative Medicine**, 15, 55, 2026.
+  104.  [Association between moral distress and burnout syndrome at a palliative care unit in Federal District – Brazil](https://apm.amegroups.org/article/view/153971/html). Jointly with A. M. P. Job, S. R. A. Mendes Filho and A. N. C. Santana. **Annals of Palliative Medicine**, 15, 55, 2026.
   105.  [The mth Gini index estimator: Unbiasedness for gamma populations](https://doi.org/10.1007/s10888-025-09715-3). Jointly with R. Vila. **The Journal of Economic Inequality**, 24, 589–599, 2026.
   106.  [On the bias of the Hoover index estimator: Results for the gamma distribution](https://doi.org/10.1007/s41237-026-00299-4). Jointly with R. Vila. **Behaviormetrika**, 53, 419-437, 2026.
-  107.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://doi.org/10.1080/02664763.2026.2616862). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
-  108.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
+  107.  [A unified transformation conditioning construction of bivariate distributions motivated by sample-selection models][]. Jointly with R. Vila, C. Castro and C. Marchant. **Computational and Applied Mathematics**, 46, 34, 2027.
+  108.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://doi.org/10.1080/02664763.2026.2616862). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
+  109.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
+  110.  [The arithmetic-harmonic inequality index: Theory, inference, and finite-sample analysis](https://arxiv.org/abs/2604.04249). Jointly with R. Vila. To appear in **Behaviormetrika**.
+  111.  [On the bias of the Gini estimator: Poisson and geometric cases, a characterization of the gamma family, and unbiasedness under gamma distributions](https://arxiv.org/abs/2512.14983). Jointly with R. Vila. **Statistical Methods & Applications**.
 
 
 
@@ -125,19 +128,20 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   110. [Unbiased estimation in new Gini index extensions under gamma distributions, with application to real income data](https://arxiv.org/abs/2506.00666). Jointly with R. Vila. Submitted to **International Journal of Applied and Computational Mathematics**.
   111. [Two Tunable Gini-Type Measures with U-Statistic Estimation: Theory, Simulation, and an Empirical Application to GDP per Capita in the Americas](https://arxiv.org/abs/2508.02965). Jointly with R. Vila. Submitted to **Social Choice and Welfare**.
   112. [Bias in estimating Theil, Atkinson, and dispersion indices for gamma mixture populations](https://arxiv.org/abs/2506.22168). Jointly with R. Vila. Submitted to **Mathematics and Computers in Simulation**.
-  113. [On the bias of the Gini estimator: Poisson and geometric cases, a characterization of the gamma family, and unbiasedness under gamma distributions](https://arxiv.org/abs/2512.14983). Jointly with R. Vila. Submitted to **Statistical Methods & Applications**.
+  113. 
   114. [Bias analysis of a linear order-statistic inequality index estimator: Unbiasedness under gamma populations](https://arxiv.org/abs/2602.14861). Jointly with R. Vila. Submitted to **Japanese Journal of Statistics and Data Science**.
   115. Multimodal Exponential-Polynomial Families on Constrained Supports via Monotone Transformations. Jointly with R. Vila. Submitted to **Statistical Papers**.
   116. [New closed-form estimation methods for multivariate gamma distributions, with application to hydrology](https://arxiv.org/abs/2509.10794). Jointly with R. Vila. Submitted to **Communications in Statistics – Simulation and Computation**.
-  117. [A unified method for generating closed-form point estimators for exponential families: An example with the beta distribution applied to proportions of land used for farming](https://arxiv.org/abs/2508.12169). Jointly with R. Vila. Submitted to **Australian & New Zealand Journal of Statistics**.
+  117. [A transformed-score approach to closed-form and one-step efficient estimation for the beta distribution](https://arxiv.org/abs/2508.12169). Jointly with R. Vila, F. Quintino and P. L. Ramos. Submitted to **Journal of Statistical Computation and Simulation**.
   118. [A unified transformation conditioning construction of bivariate distributions motivated by sample-selection models](https://). Jointly with R. Vila. Submitted to **Computational and Applied Mathematics**.
   119. [Closed-form estimators for an exponential family derived from likelihood equations](https://arxiv.org/abs/2405.14509). Jointly with R. Vila and E. Nakano. Submitted to **Metrika**.
-  120. [The arithmetic-harmonic inequality index: Theory, inference, and finite-sample analysis](https://arxiv.org/abs/2604.04249). Jointly with R. Vila. Submitted to **Behaviormetrika**.
+
+       
   121. [Unbiased estimation of normalized scale-invariant indices under the gamma distribution](https://). Jointly with R. Vila and F. Quintino. Submitted to **Computational and Applied Mathematics**.
   122. [Unifying the Hoover and Gini indices: Analytical, bias, and computational aspects](https://arxiv.org/abs/2603.26166). Jointly with R. Vila and F. Quintino. Submitted to **Journal of Mathematical Economics**.
   123. [Simple analytical expressions for the bias of the 𝑚th Gini index under gamma mixture populations](https://). Jointly with R. Vila and F. Quintino. Submitted to **XXXXXX**.
   124. [Length-biased Birnbaum-Saunders quantile regression with application to water evaporation](https://arxiv.org/abs/2605.26253). Jointly with T. Nonato and R. Vila. Submitted to **Communications in Statistics – Theory and Methods**.
-  125. [Quantile autoregressive moving average models for ratio-based bounded time series](https://arxiv.org/abs/2605.26052). Jointly with R. Vila and F. Vilca. Submitted to **Computational and Applied Mathematics**.
+  125. [Quantile autoregressive moving average models for ratio-based bounded time series](https://arxiv.org/abs/2605.26052). Jointly with R. Vila and F. Vilca. Submitted to **Journal of Forecasting**.
   126. [A multivariate Birnbaum-Saunders autoregressive moving average model with application to air pollution concentration data](https://arxiv.org/abs/2605.04211). Jointly with R. Vila. Submitted to **Stochastic Environmental Research and Risk Assessment**.
 ## Book Chapters
   127.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
