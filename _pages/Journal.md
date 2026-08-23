@@ -112,11 +112,14 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   101.  [An unbiased estimator of a novel extended mth Gini index for gamma distributed populations](https://doi.org/10.1016/j.cam.2025.117320). Jointly with R. Vila. **Journal of Computational and Applied Mathematics**, 482, 117320, 2026.
   102.  [Moment-type estimators for a weighted exponential family](https://doi.org/10.1080/03610926.2025.2492840). Jointly with R. Vila. **Communications in Statistics – Theory and Methods**, 55, 37-252, 2026.
   103.  [On the bias of the Gini coeﬃcient estimator for zero-truncated Poisson distributions](https://doi.org/10.3103/S1066530726700122). Jointly with R. Vila. **Mathematical Methods of Statistics**, 35, 185-195, 2026.
-  104.  [Association between moral distress and burnout syndrome at a palliative care unit in Federal District – Brazil](https://apm.amegroups.org/article/view/153971). Jointly with A. M. P. Job, S. R. A. Mendes Filho and A. N. C. Santana. To appear in **Annals of Palliative Medicine**.
-  105.  [The mth Gini index estimator: Unbiasedness for gamma populations](https://doi.org/10.1007/s10888-025-09715-3). Jointly with R. Vila. To appear in **The Journal of Economic Inequality**.
-  106.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://doi.org/10.1080/02664763.2026.2616862). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
-  107.  [On the bias of the Hoover index estimator: Results for the gamma distribution](https://link.springer.com/journal/41237). Jointly with R. Vila. To appear in **Behaviormetrika**.
+  104.  [Association between moral distress and burnout syndrome at a palliative care unit in Federal District – Brazil(https://apm.amegroups.org/article/view/153971/html). Jointly with A. M. P. Job, S. R. A. Mendes Filho and A. N. C. Santana. **Annals of Palliative Medicine**, 15, 55, 2026.
+  105.  [The mth Gini index estimator: Unbiasedness for gamma populations](https://doi.org/10.1007/s10888-025-09715-3). Jointly with R. Vila. **The Journal of Economic Inequality**, 24, 589–599, 2026.
+  106.  [On the bias of the Hoover index estimator: Results for the gamma distribution](https://doi.org/10.1007/s41237-026-00299-4). Jointly with R. Vila. **Behaviormetrika**, 53, 419-437, 2026.
+  107.  [A new partially varying-coefficient model and its diagnostic analysis for a reparameterized Birnbaum-Saunders distribution with applications](https://doi.org/10.1080/02664763.2026.2616862). Jointly with G. Ibacache-Pulgar, M. Osorio and C. Marchant. To appear in **Journal of Applied Statistics**.
   108.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
+
+
+
 ## Working Papers
   109. [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](https://arxiv.org/abs/2504.13806). Jointly with R. Vila. Submitted to **Communications in Statistics – Theory and Methods**.
   110. [Unbiased estimation in new Gini index extensions under gamma distributions, with application to real income data](https://arxiv.org/abs/2506.00666). Jointly with R. Vila. Submitted to **International Journal of Applied and Computational Mathematics**.
