@@ -120,7 +120,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   109.  [Forecasting aggregated hourly electricity demand in Southeast and Midwest Brazil](https://doi.org/10.1007/s12667-025-00761-4). Jointly with M. I. Machado, J. A. Fiorucci, and J. M. Sampaio. To appear in **Energy Systems**.
   110.  [The arithmetic-harmonic inequality index: Theory, inference, and finite-sample analysis](https://arxiv.org/abs/2604.04249). Jointly with R. Vila. To appear in **Behaviormetrika**.
   111.  [On the bias of the Gini estimator: Poisson and geometric cases, a characterization of the gamma family, and unbiasedness under gamma distributions](https://arxiv.org/abs/2512.14983). Jointly with R. Vila. To appear in **Statistical Methods & Applications**.
-  112.   [Multimodal exponential-polynomial families on constrained supports via monotone transformations][https://]. Jointly with R. Vila, C. Castro, F. Quintino, and V. Leiva. To appear in **Statistical Papers**.
+  112.   [Multimodal exponential-polynomial families on constrained supports via monotone transformations](https://). Jointly with R. Vila, C. Castro, F. Quintino, and V. Leiva. To appear in **Statistical Papers**.
 ## Working Papers
   113. [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](https://arxiv.org/abs/2504.13806). Jointly with R. Vila. Submitted to **Communications in Statistics – Theory and Methods**.
   114. [Unbiased estimation in new Gini index extensions under gamma distributions, with application to real income data](https://arxiv.org/abs/2506.00666). Jointly with R. Vila. Submitted to **International Journal of Applied and Computational Mathematics**.
