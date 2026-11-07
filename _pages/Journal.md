@@ -140,7 +140,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   128. [Inference for signed-power modal transitions](https://). Jointly with C. Castro, R., C. Otiniano, Vila and F. Quintino. Submitted to **Journal of Multivariate Analysis**.
   129. [Association-constrained estimation of long-run covariance kernels](https://). Jointly with C. Castro and M. Oliveira. Submitted to **Journal of Statistical Theory and Practice**.
   130. [A multivariate Birnbaum-Saunders lifetime regression model](https://). Jointly with F. Vilca and C. Zeller. Submitted to **Journal**.
-  131. [A comparison between two approach in quantile regression](https://). Jointly with L. Sanchez and C. Marchant. Submitted to **Journal of Applied Statistics**.
+  131. [A comparison between two approaches in quantile regression](https://). Jointly with L. Sanchez and C. Marchant. Submitted to **Journal of Applied Statistics**.
 ## Book Chapters
   132.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
   133.  [Environmental applications based on Birnbaum-Saunders models](https://link.springer.com/chapter/10.1007/978-981-10-5370-2_14). Jointly with V. Leiva. In **Mathematical and Statistical Applications in Life Sciences and Engineering** (Eds. M. R. Adhikari,  Y. P. Chaubey,  and A. Adhikari), Springer, 2017.
