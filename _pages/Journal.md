@@ -124,7 +124,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   113.  [On the bias of the Gini estimator: Poisson and geometric cases, a characterization of the gamma family, and unbiasedness under gamma distributions](https://arxiv.org/abs/2512.14983). Jointly with R. Vila. To appear in **Statistical Methods & Applications**.
   114.  [Two Tunable Gini-Type Measures with U-Statistic Estimation: Theory, Simulation, and an Empirical Application to GDP per Capita in the Americas](https://arxiv.org/abs/2508.02965). Jointly with R. Vila. To appear in **Social Choice and Welfare**.
   115. [Unbiased estimation of normalized scale-invariant indices under the gamma distribution](https://). Jointly with R. Vila and F. Quintino. To appear in **Behaviormetrika**.
-  116. [A multivariate Birnbaum-Saunders autoregressive moving average model with application to air pollution concentration data](https://arxiv.org/abs/2605.04211). To appear in **Stochastic Environmental Research and Risk Assessment**.
+  116. [A multivariate Birnbaum-Saunders autoregressive moving average model with application to air pollution concentration data](https://arxiv.org/abs/2605.04211). To appear in **Stochastic Environmental Research and Risk Assessment**. 
 ## Working Papers 
   117. [Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations](https://arxiv.org/abs/2504.13806). Jointly with R. Vila. Submitted to **Communications in Statistics – Theory and Methods**.
   118. [Unbiased estimation in new Gini index extensions under gamma distributions, with application to real income data](https://arxiv.org/abs/2506.00666). Jointly with R. Vila. Submitted to **International Journal of Applied and Computational Mathematics**.
@@ -139,7 +139,7 @@ explorations with data analytics](https://soche.cl/chjs/issues.html#vol15-number
   127. [Quantile autoregressive moving average models for ratio-based bounded time series](https://arxiv.org/abs/2605.26052). Jointly with R. Vila and F. Vilca. Submitted to **Journal of Forecasting**. 
   128. [Inference for signed-power modal transitions](https://). Jointly with C. Castro, R., C. Otiniano, Vila and F. Quintino. Submitted to **Journal of Multivariate Analysis**.
   129. [Association-constrained estimation of long-run covariance kernels](https://). Jointly with C. Castro and M. Oliveira. Submitted to **Journal of Statistical Theory and Practice**.
-  130. [A multivariate Birnbaum-Saunders lifetime regression model](https://). Jointly with F. Vilca and C. Zeller. Submitted to **Journal**.
+  130. [A multivariate Birnbaum-Saunders lifetime regression model](https://). Jointly with F. Vilca and C. Zeller. Submitted to **Journal of**.
   131. [A comparison between two approaches in quantile regression](https://). Jointly with L. Sanchez and C. Marchant. Submitted to **Journal of Applied Statistics**.
 ## Book Chapters
   132.  [Monitoring environmental risk by a methodology based on control charts](https://link.springer.com/chapter/10.1007/978-3-319-18029-8_14). Jointly with V. Leiva and F. Ruggeri. In **Risk Assessment Challenges: Theory and Practice** (Eds. C. Kitsos, T.A. Oliveira, S. Gulati and S. Rigas), Springer, 2015.
